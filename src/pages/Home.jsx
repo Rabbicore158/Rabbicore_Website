@@ -56,7 +56,16 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-image-wrap">
-            <img src={HERO_IMAGE} alt="Warm, curated living room styled with natural textures" />
+            <img
+              src={HERO_IMAGE}
+              alt="Warm, curated living room styled with natural textures"
+              width={1200}
+              height={1000}
+              sizes="(max-width: 900px) 100vw, 50vw"
+              loading="eager"
+              decoding="async"
+              fetchPriority="high"
+            />
             <div className="hero-badge">
               <div className="testi-avatar" style={{ background: "var(--terracotta)" }}>4.9</div>
               <div>

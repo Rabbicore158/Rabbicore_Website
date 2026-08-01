@@ -42,7 +42,7 @@ const CATEGORY_TAGS = {
 };
 
 const MISC = [
-  { file: "rabbitcore-hero", tags: "livingroom,interior", w: 1200, h: 1000, lock: 10 },
+  { file: "rabbicore-hero", tags: "livingroom,interior", w: 1200, h: 1000, lock: 10 },
   { file: "about-rabbicore", tags: "interior,home", w: 900, h: 760, lock: 11 },
   { file: "article-generic", tags: "interior,home", w: 1200, h: 700, lock: 12 },
   { file: "category-living-room", tags: "livingroom", w: 800, h: 800, lock: 13 },
