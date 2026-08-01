@@ -48,7 +48,7 @@ export default function Navbar() {
       <header className={`site-header ${scrolled ? "scrolled" : ""}`}>
         <div className="container header-inner">
           <Link to="/" className="logo">
-            <img src="/images/logo.png" alt="RabbiCore logo" />
+            <img src="/images/logo.webp" alt="RabbiCore logo" />
             <span className="logo-text">
               <b>RabbiCore</b>
               <span>Beautiful Homes, Better Living</span>

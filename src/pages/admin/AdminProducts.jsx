@@ -48,7 +48,7 @@ export default function AdminProducts() {
       id, slug, name: form.name, category: form.category, categoryName: catName,
       price: parseFloat(form.price), originalPrice: null, onSale: false,
       rating: 4.7, reviews: 12, isNew: true, isBestseller: false,
-      images: (() => { const img = form.image || `/images/misc/category-${form.category}.png`; return [img, img, img, img]; })(),
+      images: (() => { const img = form.image || `/images/misc/category-${form.category}.webp`; return [img, img, img, img]; })(),
       description: form.description || `${form.name}, a beautiful addition to your ${catName.toLowerCase()}.`,
       features: ["Added via Admin Dashboard", "Premium materials", "Fast shipping"],
       specs: { Material: form.material || "N/A", Color: form.color || "N/A", Dimensions: form.dimensions || "N/A", Weight: "N/A", Assembly: "N/A", Style: "Modern" },

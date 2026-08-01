@@ -10,12 +10,12 @@ export const categories = [
 ];
 
 export const collections = [
-  { key: "new-arrivals", name: "New Arrivals", desc: "The latest additions to our catalog, added weekly.", image: "/images/misc/collection-new.png" },
-  { key: "best-sellers", name: "Best Sellers", desc: "Our most-loved pieces, based on real customer ratings.", image: "/images/misc/collection-best.png" },
-  { key: "on-sale", name: "On Sale", desc: "Limited-time markdowns across every room.", image: "/images/misc/collection-sale.png" },
-  { key: "scandinavian-edit", name: "Scandinavian Edit", desc: "Light woods, soft neutrals, and clean lines.", image: "/images/misc/collection-scandi.png" },
-  { key: "boho-living", name: "Boho Living", desc: "Rattan, warm textures, and relaxed silhouettes.", image: "/images/misc/collection-boho.png" },
-  { key: "small-space-edit", name: "Small Space Edit", desc: "Space-smart pieces for apartments and cozy rooms.", image: "/images/misc/collection-small.png" },
+  { key: "new-arrivals", name: "New Arrivals", desc: "The latest additions to our catalog, added weekly.", image: "/images/misc/collection-new.webp" },
+  { key: "best-sellers", name: "Best Sellers", desc: "Our most-loved pieces, based on real customer ratings.", image: "/images/misc/collection-best.webp" },
+  { key: "on-sale", name: "On Sale", desc: "Limited-time markdowns across every room.", image: "/images/misc/collection-sale.webp" },
+  { key: "scandinavian-edit", name: "Scandinavian Edit", desc: "Light woods, soft neutrals, and clean lines.", image: "/images/misc/collection-scandi.webp" },
+  { key: "boho-living", name: "Boho Living", desc: "Rattan, warm textures, and relaxed silhouettes.", image: "/images/misc/collection-boho.webp" },
+  { key: "small-space-edit", name: "Small Space Edit", desc: "Space-smart pieces for apartments and cozy rooms.", image: "/images/misc/collection-small.webp" },
 ];
 
 export const testimonials = [
@@ -29,7 +29,7 @@ export const testimonials = [
 
 export const instagramStrip = Array.from({ length: 8 }).map((_, i) => ({
   id: i + 1,
-  image: `/images/misc/instagram-${i + 1}.png`,
+  image: `/images/misc/instagram-${i + 1}.webp`,
 }));
 
 // Client-side admin accounts. NOTE: this is a static front-end demo login.

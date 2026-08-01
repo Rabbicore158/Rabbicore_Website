@@ -3,7 +3,7 @@ import { Link } from "../utils/router.jsx";
 import { Breadcrumbs, TrustStrip } from "../components/Sections.jsx";
 import Reveal from "../components/Reveal.jsx";
 
-const ABOUT_IMAGE = "/images/misc/about-rabbicore.png";
+const ABOUT_IMAGE = "/images/misc/about-rabbicore.webp";
 
 export default function About() {
   const stats = [

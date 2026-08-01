@@ -10,7 +10,7 @@ export const articles = [
     "date": "January 3, 2025",
     "dateISO": "2025-01-03T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "/images/articles/article-1.png",
+    "heroImage": "/images/articles/article-1.webp",
     "toc": [
       "1. Anchor the Room with a Rug",
       "2. Add Personal Touches",
@@ -37,7 +37,7 @@ export const articles = [
     "date": "April 10, 2025",
     "dateISO": "2025-04-10T00:00:00.000Z",
     "readTime": "8 min read",
-    "heroImage": "/images/articles/article-2.png",
+    "heroImage": "/images/articles/article-2.webp",
     "toc": [
       "1. Layer Your Textures",
       "2. Balance Scale and Proportion",
@@ -64,7 +64,7 @@ export const articles = [
     "date": "July 17, 2025",
     "dateISO": "2025-07-17T00:00:00.000Z",
     "readTime": "9 min read",
-    "heroImage": "/images/articles/article-3.png",
+    "heroImage": "/images/articles/article-3.webp",
     "toc": [
       "1. Layer Your Textures",
       "2. Anchor the Room with a Rug",
@@ -91,7 +91,7 @@ export const articles = [
     "date": "October 24, 2025",
     "dateISO": "2025-10-24T00:00:00.000Z",
     "readTime": "10 min read",
-    "heroImage": "/images/articles/article-4.png",
+    "heroImage": "/images/articles/article-4.webp",
     "toc": [
       "1. Choose Blackout or Layered Curtains",
       "2. Get the Nightstand Height Right",
@@ -118,7 +118,7 @@ export const articles = [
     "date": "January 6, 2025",
     "dateISO": "2025-01-06T00:00:00.000Z",
     "readTime": "11 min read",
-    "heroImage": "/images/articles/article-5.png",
+    "heroImage": "/images/articles/article-5.webp",
     "toc": [
       "1. Choose Blackout or Layered Curtains",
       "2. Keep a Clear Path",
@@ -145,7 +145,7 @@ export const articles = [
     "date": "April 13, 2025",
     "dateISO": "2025-04-13T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "/images/articles/article-6.png",
+    "heroImage": "/images/articles/article-6.webp",
     "toc": [
       "1. Bring in Scent and Sound",
       "2. Add a Reading Nook",
@@ -172,7 +172,7 @@ export const articles = [
     "date": "July 20, 2025",
     "dateISO": "2025-07-20T00:00:00.000Z",
     "readTime": "8 min read",
-    "heroImage": "/images/articles/article-7.png",
+    "heroImage": "/images/articles/article-7.webp",
     "toc": [
       "1. Add a Runner Rug for Comfort",
       "2. Upgrade Your Hardware",
@@ -199,7 +199,7 @@ export const articles = [
     "date": "October 27, 2025",
     "dateISO": "2025-10-27T00:00:00.000Z",
     "readTime": "9 min read",
-    "heroImage": "/images/articles/article-8.png",
+    "heroImage": "/images/articles/article-8.webp",
     "toc": [
       "1. Choose Timeless Over Trendy for Big Items",
       "2. Add Under-Cabinet Lighting",
@@ -226,7 +226,7 @@ export const articles = [
     "date": "January 9, 2025",
     "dateISO": "2025-01-09T00:00:00.000Z",
     "readTime": "10 min read",
-    "heroImage": "/images/articles/article-9.png",
+    "heroImage": "/images/articles/article-9.webp",
     "toc": [
       "1. Use a Kitchen Island Cart for Flexibility",
       "2. Style with a Fruit Bowl or Bread Board",
@@ -253,7 +253,7 @@ export const articles = [
     "date": "April 16, 2025",
     "dateISO": "2025-04-16T00:00:00.000Z",
     "readTime": "11 min read",
-    "heroImage": "/images/articles/article-10.png",
+    "heroImage": "/images/articles/article-10.webp",
     "toc": [
       "1. Layer a Bath Mat with Texture",
       "2. Add Warm-Toned Lighting",
@@ -280,7 +280,7 @@ export const articles = [
     "date": "July 23, 2025",
     "dateISO": "2025-07-23T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "/images/articles/article-11.png",
+    "heroImage": "/images/articles/article-11.webp",
     "toc": [
       "1. Bring in a Plant That Tolerates Humidity",
       "2. Declutter the Vanity",
@@ -307,7 +307,7 @@ export const articles = [
     "date": "October 5, 2025",
     "dateISO": "2025-10-05T00:00:00.000Z",
     "readTime": "8 min read",
-    "heroImage": "/images/articles/article-12.png",
+    "heroImage": "/images/articles/article-12.webp",
     "toc": [
       "1. Mix Chair Styles",
       "2. Add a Table Runner Instead of a Tablecloth",
@@ -334,7 +334,7 @@ export const articles = [
     "date": "January 12, 2025",
     "dateISO": "2025-01-12T00:00:00.000Z",
     "readTime": "9 min read",
-    "heroImage": "/images/articles/article-13.png",
+    "heroImage": "/images/articles/article-13.webp",
     "toc": [
       "1. Choose the Right Table Size",
       "2. Layer Lighting Over the Table",
@@ -361,7 +361,7 @@ export const articles = [
     "date": "April 19, 2025",
     "dateISO": "2025-04-19T00:00:00.000Z",
     "readTime": "10 min read",
-    "heroImage": "/images/articles/article-14.png",
+    "heroImage": "/images/articles/article-14.webp",
     "toc": [
       "1. Choose a Rug to Define the Zone",
       "2. Corral Cords and Cables",
@@ -388,7 +388,7 @@ export const articles = [
     "date": "July 26, 2025",
     "dateISO": "2025-07-26T00:00:00.000Z",
     "readTime": "11 min read",
-    "heroImage": "/images/articles/article-15.png",
+    "heroImage": "/images/articles/article-15.webp",
     "toc": [
       "1. Add Closed Storage for Paperwork",
       "2. Use a Task Lamp for Focused Light",
@@ -415,7 +415,7 @@ export const articles = [
     "date": "October 8, 2025",
     "dateISO": "2025-10-08T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "/images/articles/article-16.png",
+    "heroImage": "/images/articles/article-16.webp",
     "toc": [
       "1. Layer in String Lights",
       "2. Choose Weather-Resistant Cushions",
@@ -442,7 +442,7 @@ export const articles = [
     "date": "January 15, 2025",
     "dateISO": "2025-01-15T00:00:00.000Z",
     "readTime": "8 min read",
-    "heroImage": "/images/articles/article-17.png",
+    "heroImage": "/images/articles/article-17.webp",
     "toc": [
       "1. Keep Pathways Clear",
       "2. Incorporate a Water Feature or Wind Chime",
@@ -469,7 +469,7 @@ export const articles = [
     "date": "April 22, 2025",
     "dateISO": "2025-04-22T00:00:00.000Z",
     "readTime": "9 min read",
-    "heroImage": "/images/articles/article-18.png",
+    "heroImage": "/images/articles/article-18.webp",
     "toc": [
       "1. Use Dimmers Where Possible",
       "2. Add Under-Shelf or Under-Cabinet Lighting",
@@ -496,7 +496,7 @@ export const articles = [
     "date": "July 4, 2025",
     "dateISO": "2025-07-04T00:00:00.000Z",
     "readTime": "10 min read",
-    "heroImage": "/images/articles/article-19.png",
+    "heroImage": "/images/articles/article-19.webp",
     "toc": [
       "1. Choose the Right Bulb Temperature",
       "2. Choose Fixtures That Match Your Metal Finishes",
@@ -523,7 +523,7 @@ export const articles = [
     "date": "October 11, 2025",
     "dateISO": "2025-10-11T00:00:00.000Z",
     "readTime": "11 min read",
-    "heroImage": "/images/articles/article-20.png",
+    "heroImage": "/images/articles/article-20.webp",
     "toc": [
       "1. Use Warm, Layered Lighting",
       "2. Add Personal Touches",
@@ -550,7 +550,7 @@ export const articles = [
     "date": "January 18, 2025",
     "dateISO": "2025-01-18T00:00:00.000Z",
     "readTime": "7 min read",
-    "heroImage": "/images/articles/article-21.png",
+    "heroImage": "/images/articles/article-21.webp",
     "toc": [
       "1. Choose a Warm Color Palette",
       "2. Incorporate Candles or Warm Accents",
@@ -577,7 +577,7 @@ export const articles = [
     "date": "April 25, 2025",
     "dateISO": "2025-04-25T00:00:00.000Z",
     "readTime": "8 min read",
-    "heroImage": "/images/articles/article-22.png",
+    "heroImage": "/images/articles/article-22.webp",
     "toc": [
       "1. Add Under-Cabinet Lighting",
       "2. Upgrade Your Hardware",

@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <Link to="/" className="logo">
-              <img src="/images/logo.png" alt="RabbiCore logo" style={{ width: 40, height: 40 }} />
+              <img src="/images/logo.webp" alt="RabbiCore logo" style={{ width: 40, height: 40 }} />
               <span className="logo-text"><b style={{ color: "white", fontFamily: "var(--font-display)", fontSize: 19 }}>{settings.siteName}</b></span>
             </Link>
             <p>Curated home decor picks and real, practical decorating ideas for every room and every budget.</p>

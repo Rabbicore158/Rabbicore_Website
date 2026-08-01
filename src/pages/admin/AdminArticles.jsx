@@ -48,7 +48,7 @@ export default function AdminArticles() {
       date: now.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" }),
       dateISO: now.toISOString(),
       readTime: `${Math.max(3, Math.round(form.contentHtml.split(" ").length / 200))} min read`,
-      heroImage: form.heroImage || "/images/misc/article-generic.png",
+      heroImage: form.heroImage || "/images/misc/article-generic.webp",
       toc: [],
       isHtml: true,
       contentHtml: form.contentHtml,

@@ -14,10 +14,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-sofa-living-room-1.png",
-      "/images/products/vintage-sofa-living-room-1.png",
-      "/images/products/vintage-sofa-living-room-1.png",
-      "/images/products/vintage-sofa-living-room-1.png"
+      "/images/products/vintage-sofa-living-room-1.webp",
+      "/images/products/vintage-sofa-living-room-1.webp",
+      "/images/products/vintage-sofa-living-room-1.webp",
+      "/images/products/vintage-sofa-living-room-1.webp"
     ],
     "description": "Blending form and function, this sofa was built with sustainably sourced materials that age beautifully over time. Made from brushed brass, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in terracotta, it's a versatile addition to any living room.",
     "features": [
@@ -51,10 +51,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-loveseat-living-room-2.png",
-      "/images/products/modern-loveseat-living-room-2.png",
-      "/images/products/modern-loveseat-living-room-2.png",
-      "/images/products/modern-loveseat-living-room-2.png"
+      "/images/products/modern-loveseat-living-room-2.webp",
+      "/images/products/modern-loveseat-living-room-2.webp",
+      "/images/products/modern-loveseat-living-room-2.webp",
+      "/images/products/modern-loveseat-living-room-2.webp"
     ],
     "description": "Crafted for everyday comfort, this loveseat was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from reclaimed pine, it brings a boutique-hotel feel to your home at a fraction of the price. Available in warm walnut, it's a versatile addition to any living room.",
     "features": [
@@ -88,10 +88,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-accent-chair-living-room-3.png",
-      "/images/products/coastal-accent-chair-living-room-3.png",
-      "/images/products/coastal-accent-chair-living-room-3.png",
-      "/images/products/coastal-accent-chair-living-room-3.png"
+      "/images/products/coastal-accent-chair-living-room-3.webp",
+      "/images/products/coastal-accent-chair-living-room-3.webp",
+      "/images/products/coastal-accent-chair-living-room-3.webp",
+      "/images/products/coastal-accent-chair-living-room-3.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this accent chair was built with sustainably sourced materials that age beautifully over time. Made from powder-coated iron, it is finished by hand, so no two pieces are exactly alike. Available in natural beige, it's a versatile addition to any living room.",
     "features": [
@@ -125,10 +125,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/modern-coffee-table-living-room-4.png",
-      "/images/products/modern-coffee-table-living-room-4.png",
-      "/images/products/modern-coffee-table-living-room-4.png",
-      "/images/products/modern-coffee-table-living-room-4.png"
+      "/images/products/modern-coffee-table-living-room-4.webp",
+      "/images/products/modern-coffee-table-living-room-4.webp",
+      "/images/products/modern-coffee-table-living-room-4.webp",
+      "/images/products/modern-coffee-table-living-room-4.webp"
     ],
     "description": "Made to last through every season, this coffee table combines natural textures with clean lines for a look that feels curated, not cluttered. Made from rattan & wicker, it was built with sustainably sourced materials that age beautifully over time. Available in terracotta, it's a versatile addition to any living room.",
     "features": [
@@ -162,10 +162,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-tv-stand-living-room-5.png",
-      "/images/products/coastal-tv-stand-living-room-5.png",
-      "/images/products/coastal-tv-stand-living-room-5.png",
-      "/images/products/coastal-tv-stand-living-room-5.png"
+      "/images/products/coastal-tv-stand-living-room-5.webp",
+      "/images/products/coastal-tv-stand-living-room-5.webp",
+      "/images/products/coastal-tv-stand-living-room-5.webp",
+      "/images/products/coastal-tv-stand-living-room-5.webp"
     ],
     "description": "Designed to warm up any room, this tv stand is the kind of piece that quietly pulls a whole room together. Made from solid oak wood, it adds warmth and texture without overwhelming the rest of your decor. Available in warm walnut, it's a versatile addition to any living room.",
     "features": [
@@ -199,10 +199,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-bookshelf-living-room-6.png",
-      "/images/products/modern-bookshelf-living-room-6.png",
-      "/images/products/modern-bookshelf-living-room-6.png",
-      "/images/products/modern-bookshelf-living-room-6.png"
+      "/images/products/modern-bookshelf-living-room-6.webp",
+      "/images/products/modern-bookshelf-living-room-6.webp",
+      "/images/products/modern-bookshelf-living-room-6.webp",
+      "/images/products/modern-bookshelf-living-room-6.webp"
     ],
     "description": "A favorite among our customers, this bookshelf is finished by hand, so no two pieces are exactly alike. Made from walnut veneer, it is finished by hand, so no two pieces are exactly alike. Available in slate grey, it's a versatile addition to any living room.",
     "features": [
@@ -236,10 +236,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-area-rug-living-room-7.png",
-      "/images/products/scandinavian-area-rug-living-room-7.png",
-      "/images/products/scandinavian-area-rug-living-room-7.png",
-      "/images/products/scandinavian-area-rug-living-room-7.png"
+      "/images/products/scandinavian-area-rug-living-room-7.webp",
+      "/images/products/scandinavian-area-rug-living-room-7.webp",
+      "/images/products/scandinavian-area-rug-living-room-7.webp",
+      "/images/products/scandinavian-area-rug-living-room-7.webp"
     ],
     "description": "Bring understated elegance into your space with this area rug was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from bamboo, it brings a boutique-hotel feel to your home at a fraction of the price. Available in terracotta, it's a versatile addition to any living room.",
     "features": [
@@ -273,10 +273,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-throw-pillow-set-living-room-8.png",
-      "/images/products/rustic-throw-pillow-set-living-room-8.png",
-      "/images/products/rustic-throw-pillow-set-living-room-8.png",
-      "/images/products/rustic-throw-pillow-set-living-room-8.png"
+      "/images/products/rustic-throw-pillow-set-living-room-8.webp",
+      "/images/products/rustic-throw-pillow-set-living-room-8.webp",
+      "/images/products/rustic-throw-pillow-set-living-room-8.webp",
+      "/images/products/rustic-throw-pillow-set-living-room-8.webp"
     ],
     "description": "A favorite among our customers, this throw pillow set was built with sustainably sourced materials that age beautifully over time. Made from ceramic stoneware, it is finished by hand, so no two pieces are exactly alike. Available in ivory, it's a versatile addition to any living room.",
     "features": [
@@ -310,10 +310,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-wall-art-set-living-room-9.png",
-      "/images/products/scandinavian-wall-art-set-living-room-9.png",
-      "/images/products/scandinavian-wall-art-set-living-room-9.png",
-      "/images/products/scandinavian-wall-art-set-living-room-9.png"
+      "/images/products/scandinavian-wall-art-set-living-room-9.webp",
+      "/images/products/scandinavian-wall-art-set-living-room-9.webp",
+      "/images/products/scandinavian-wall-art-set-living-room-9.webp",
+      "/images/products/scandinavian-wall-art-set-living-room-9.webp"
     ],
     "description": "Blending form and function, this wall art set brings a boutique-hotel feel to your home at a fraction of the price. Made from reclaimed pine, it was built with sustainably sourced materials that age beautifully over time. Available in slate grey, it's a versatile addition to any living room.",
     "features": [
@@ -347,10 +347,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-floor-lamp-living-room-10.png",
-      "/images/products/rustic-floor-lamp-living-room-10.png",
-      "/images/products/rustic-floor-lamp-living-room-10.png",
-      "/images/products/rustic-floor-lamp-living-room-10.png"
+      "/images/products/rustic-floor-lamp-living-room-10.webp",
+      "/images/products/rustic-floor-lamp-living-room-10.webp",
+      "/images/products/rustic-floor-lamp-living-room-10.webp",
+      "/images/products/rustic-floor-lamp-living-room-10.webp"
     ],
     "description": "A quiet statement piece, this floor lamp adds warmth and texture without overwhelming the rest of your decor. Made from linen & cotton blend, it adds warmth and texture without overwhelming the rest of your decor. Available in terracotta, it's a versatile addition to any living room.",
     "features": [
@@ -384,10 +384,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-console-table-living-room-11.png",
-      "/images/products/scandinavian-console-table-living-room-11.png",
-      "/images/products/scandinavian-console-table-living-room-11.png",
-      "/images/products/scandinavian-console-table-living-room-11.png"
+      "/images/products/scandinavian-console-table-living-room-11.webp",
+      "/images/products/scandinavian-console-table-living-room-11.webp",
+      "/images/products/scandinavian-console-table-living-room-11.webp",
+      "/images/products/scandinavian-console-table-living-room-11.webp"
     ],
     "description": "Bring understated elegance into your space with this console table combines natural textures with clean lines for a look that feels curated, not cluttered. Made from powder-coated iron, it is finished by hand, so no two pieces are exactly alike. Available in ivory, it's a versatile addition to any living room.",
     "features": [
@@ -421,10 +421,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-curtain-panel-living-room-12.png",
-      "/images/products/rustic-curtain-panel-living-room-12.png",
-      "/images/products/rustic-curtain-panel-living-room-12.png",
-      "/images/products/rustic-curtain-panel-living-room-12.png"
+      "/images/products/rustic-curtain-panel-living-room-12.webp",
+      "/images/products/rustic-curtain-panel-living-room-12.webp",
+      "/images/products/rustic-curtain-panel-living-room-12.webp",
+      "/images/products/rustic-curtain-panel-living-room-12.webp"
     ],
     "description": "A favorite among our customers, this curtain panel is the kind of piece that quietly pulls a whole room together. Made from solid oak wood, it brings a boutique-hotel feel to your home at a fraction of the price. Available in slate grey, it's a versatile addition to any living room.",
     "features": [
@@ -458,10 +458,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/industrial-ottoman-living-room-13.png",
-      "/images/products/industrial-ottoman-living-room-13.png",
-      "/images/products/industrial-ottoman-living-room-13.png",
-      "/images/products/industrial-ottoman-living-room-13.png"
+      "/images/products/industrial-ottoman-living-room-13.webp",
+      "/images/products/industrial-ottoman-living-room-13.webp",
+      "/images/products/industrial-ottoman-living-room-13.webp",
+      "/images/products/industrial-ottoman-living-room-13.webp"
     ],
     "description": "Blending form and function, this ottoman pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from recycled glass, it is finished by hand, so no two pieces are exactly alike. Available in charcoal, it's a versatile addition to any living room.",
     "features": [
@@ -495,10 +495,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-sectional-sofa-living-room-14.png",
-      "/images/products/boho-sectional-sofa-living-room-14.png",
-      "/images/products/boho-sectional-sofa-living-room-14.png",
-      "/images/products/boho-sectional-sofa-living-room-14.png"
+      "/images/products/boho-sectional-sofa-living-room-14.webp",
+      "/images/products/boho-sectional-sofa-living-room-14.webp",
+      "/images/products/boho-sectional-sofa-living-room-14.webp",
+      "/images/products/boho-sectional-sofa-living-room-14.webp"
     ],
     "description": "A quiet statement piece, this sectional sofa brings a boutique-hotel feel to your home at a fraction of the price. Made from walnut veneer, it was built with sustainably sourced materials that age beautifully over time. Available in ivory, it's a versatile addition to any living room.",
     "features": [
@@ -532,10 +532,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/industrial-side-table-living-room-15.png",
-      "/images/products/industrial-side-table-living-room-15.png",
-      "/images/products/industrial-side-table-living-room-15.png",
-      "/images/products/industrial-side-table-living-room-15.png"
+      "/images/products/industrial-side-table-living-room-15.webp",
+      "/images/products/industrial-side-table-living-room-15.webp",
+      "/images/products/industrial-side-table-living-room-15.webp",
+      "/images/products/industrial-side-table-living-room-15.webp"
     ],
     "description": "Crafted for everyday comfort, this side table was built with sustainably sourced materials that age beautifully over time. Made from ceramic stoneware, it adds warmth and texture without overwhelming the rest of your decor. Available in amber, it's a versatile addition to any living room.",
     "features": [
@@ -569,10 +569,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-media-console-living-room-16.png",
-      "/images/products/boho-media-console-living-room-16.png",
-      "/images/products/boho-media-console-living-room-16.png",
-      "/images/products/boho-media-console-living-room-16.png"
+      "/images/products/boho-media-console-living-room-16.webp",
+      "/images/products/boho-media-console-living-room-16.webp",
+      "/images/products/boho-media-console-living-room-16.webp",
+      "/images/products/boho-media-console-living-room-16.webp"
     ],
     "description": "Crafted for everyday comfort, this media console brings a boutique-hotel feel to your home at a fraction of the price. Made from brushed brass, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in charcoal, it's a versatile addition to any living room.",
     "features": [
@@ -606,10 +606,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-wall-mirror-living-room-17.png",
-      "/images/products/industrial-wall-mirror-living-room-17.png",
-      "/images/products/industrial-wall-mirror-living-room-17.png",
-      "/images/products/industrial-wall-mirror-living-room-17.png"
+      "/images/products/industrial-wall-mirror-living-room-17.webp",
+      "/images/products/industrial-wall-mirror-living-room-17.webp",
+      "/images/products/industrial-wall-mirror-living-room-17.webp",
+      "/images/products/industrial-wall-mirror-living-room-17.webp"
     ],
     "description": "Made to last through every season, this wall mirror is the kind of piece that quietly pulls a whole room together. Made from reclaimed pine, it brings a boutique-hotel feel to your home at a fraction of the price. Available in ivory, it's a versatile addition to any living room.",
     "features": [
@@ -643,10 +643,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-platform-bed-frame-bedroom-18.png",
-      "/images/products/minimalist-platform-bed-frame-bedroom-18.png",
-      "/images/products/minimalist-platform-bed-frame-bedroom-18.png",
-      "/images/products/minimalist-platform-bed-frame-bedroom-18.png"
+      "/images/products/minimalist-platform-bed-frame-bedroom-18.webp",
+      "/images/products/minimalist-platform-bed-frame-bedroom-18.webp",
+      "/images/products/minimalist-platform-bed-frame-bedroom-18.webp",
+      "/images/products/minimalist-platform-bed-frame-bedroom-18.webp"
     ],
     "description": "Made to last through every season, this platform bed frame brings a boutique-hotel feel to your home at a fraction of the price. Made from ceramic stoneware, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in charcoal, it's a versatile addition to any bedroom.",
     "features": [
@@ -680,10 +680,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/farmhouse-nightstand-bedroom-19.png",
-      "/images/products/farmhouse-nightstand-bedroom-19.png",
-      "/images/products/farmhouse-nightstand-bedroom-19.png",
-      "/images/products/farmhouse-nightstand-bedroom-19.png"
+      "/images/products/farmhouse-nightstand-bedroom-19.webp",
+      "/images/products/farmhouse-nightstand-bedroom-19.webp",
+      "/images/products/farmhouse-nightstand-bedroom-19.webp",
+      "/images/products/farmhouse-nightstand-bedroom-19.webp"
     ],
     "description": "Designed to warm up any room, this nightstand was built with sustainably sourced materials that age beautifully over time. Made from brushed brass, it was built with sustainably sourced materials that age beautifully over time. Available in dusty rose, it's a versatile addition to any bedroom.",
     "features": [
@@ -717,10 +717,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-dresser-bedroom-20.png",
-      "/images/products/minimalist-dresser-bedroom-20.png",
-      "/images/products/minimalist-dresser-bedroom-20.png",
-      "/images/products/minimalist-dresser-bedroom-20.png"
+      "/images/products/minimalist-dresser-bedroom-20.webp",
+      "/images/products/minimalist-dresser-bedroom-20.webp",
+      "/images/products/minimalist-dresser-bedroom-20.webp",
+      "/images/products/minimalist-dresser-bedroom-20.webp"
     ],
     "description": "Designed to warm up any room, this dresser is finished by hand, so no two pieces are exactly alike. Made from linen & cotton blend, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in amber, it's a versatile addition to any bedroom.",
     "features": [
@@ -754,10 +754,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/mid-century-wardrobe-bedroom-21.png",
-      "/images/products/mid-century-wardrobe-bedroom-21.png",
-      "/images/products/mid-century-wardrobe-bedroom-21.png",
-      "/images/products/mid-century-wardrobe-bedroom-21.png"
+      "/images/products/mid-century-wardrobe-bedroom-21.webp",
+      "/images/products/mid-century-wardrobe-bedroom-21.webp",
+      "/images/products/mid-century-wardrobe-bedroom-21.webp",
+      "/images/products/mid-century-wardrobe-bedroom-21.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this wardrobe is the kind of piece that quietly pulls a whole room together. Made from powder-coated iron, it brings a boutique-hotel feel to your home at a fraction of the price. Available in sage green, it's a versatile addition to any bedroom.",
     "features": [
@@ -791,10 +791,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-duvet-cover-set-bedroom-22.png",
-      "/images/products/vintage-duvet-cover-set-bedroom-22.png",
-      "/images/products/vintage-duvet-cover-set-bedroom-22.png",
-      "/images/products/vintage-duvet-cover-set-bedroom-22.png"
+      "/images/products/vintage-duvet-cover-set-bedroom-22.webp",
+      "/images/products/vintage-duvet-cover-set-bedroom-22.webp",
+      "/images/products/vintage-duvet-cover-set-bedroom-22.webp",
+      "/images/products/vintage-duvet-cover-set-bedroom-22.webp"
     ],
     "description": "Made to last through every season, this duvet cover set is finished by hand, so no two pieces are exactly alike. Made from rattan & wicker, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in dusty rose, it's a versatile addition to any bedroom.",
     "features": [
@@ -828,10 +828,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-reading-chair-bedroom-23.png",
-      "/images/products/mid-century-reading-chair-bedroom-23.png",
-      "/images/products/mid-century-reading-chair-bedroom-23.png",
-      "/images/products/mid-century-reading-chair-bedroom-23.png"
+      "/images/products/mid-century-reading-chair-bedroom-23.webp",
+      "/images/products/mid-century-reading-chair-bedroom-23.webp",
+      "/images/products/mid-century-reading-chair-bedroom-23.webp",
+      "/images/products/mid-century-reading-chair-bedroom-23.webp"
     ],
     "description": "Designed to warm up any room, this reading chair was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from recycled glass, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in amber, it's a versatile addition to any bedroom.",
     "features": [
@@ -865,10 +865,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-vanity-table-bedroom-24.png",
-      "/images/products/vintage-vanity-table-bedroom-24.png",
-      "/images/products/vintage-vanity-table-bedroom-24.png",
-      "/images/products/vintage-vanity-table-bedroom-24.png"
+      "/images/products/vintage-vanity-table-bedroom-24.webp",
+      "/images/products/vintage-vanity-table-bedroom-24.webp",
+      "/images/products/vintage-vanity-table-bedroom-24.webp",
+      "/images/products/vintage-vanity-table-bedroom-24.webp"
     ],
     "description": "A quiet statement piece, this vanity table was built with sustainably sourced materials that age beautifully over time. Made from walnut veneer, it was built with sustainably sourced materials that age beautifully over time. Available in sage green, it's a versatile addition to any bedroom.",
     "features": [
@@ -902,10 +902,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-storage-bench-bedroom-25.png",
-      "/images/products/mid-century-storage-bench-bedroom-25.png",
-      "/images/products/mid-century-storage-bench-bedroom-25.png",
-      "/images/products/mid-century-storage-bench-bedroom-25.png"
+      "/images/products/mid-century-storage-bench-bedroom-25.webp",
+      "/images/products/mid-century-storage-bench-bedroom-25.webp",
+      "/images/products/mid-century-storage-bench-bedroom-25.webp",
+      "/images/products/mid-century-storage-bench-bedroom-25.webp"
     ],
     "description": "Blending form and function, this storage bench combines natural textures with clean lines for a look that feels curated, not cluttered. Made from bamboo, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in dusty rose, it's a versatile addition to any bedroom.",
     "features": [
@@ -939,10 +939,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-headboard-bedroom-26.png",
-      "/images/products/coastal-headboard-bedroom-26.png",
-      "/images/products/coastal-headboard-bedroom-26.png",
-      "/images/products/coastal-headboard-bedroom-26.png"
+      "/images/products/coastal-headboard-bedroom-26.webp",
+      "/images/products/coastal-headboard-bedroom-26.webp",
+      "/images/products/coastal-headboard-bedroom-26.webp",
+      "/images/products/coastal-headboard-bedroom-26.webp"
     ],
     "description": "A favorite among our customers, this headboard adds warmth and texture without overwhelming the rest of your decor. Made from brushed brass, it brings a boutique-hotel feel to your home at a fraction of the price. Available in cream, it's a versatile addition to any bedroom.",
     "features": [
@@ -976,10 +976,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-blanket-ladder-bedroom-27.png",
-      "/images/products/modern-blanket-ladder-bedroom-27.png",
-      "/images/products/modern-blanket-ladder-bedroom-27.png",
-      "/images/products/modern-blanket-ladder-bedroom-27.png"
+      "/images/products/modern-blanket-ladder-bedroom-27.webp",
+      "/images/products/modern-blanket-ladder-bedroom-27.webp",
+      "/images/products/modern-blanket-ladder-bedroom-27.webp",
+      "/images/products/modern-blanket-ladder-bedroom-27.webp"
     ],
     "description": "Blending form and function, this blanket ladder is finished by hand, so no two pieces are exactly alike. Made from reclaimed pine, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in sage green, it's a versatile addition to any bedroom.",
     "features": [
@@ -1013,10 +1013,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/coastal-jewelry-organizer-bedroom-28.png",
-      "/images/products/coastal-jewelry-organizer-bedroom-28.png",
-      "/images/products/coastal-jewelry-organizer-bedroom-28.png",
-      "/images/products/coastal-jewelry-organizer-bedroom-28.png"
+      "/images/products/coastal-jewelry-organizer-bedroom-28.webp",
+      "/images/products/coastal-jewelry-organizer-bedroom-28.webp",
+      "/images/products/coastal-jewelry-organizer-bedroom-28.webp",
+      "/images/products/coastal-jewelry-organizer-bedroom-28.webp"
     ],
     "description": "A quiet statement piece, this jewelry organizer was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from linen & cotton blend, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in natural beige, it's a versatile addition to any bedroom.",
     "features": [
@@ -1050,10 +1050,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-bedside-lamp-bedroom-29.png",
-      "/images/products/modern-bedside-lamp-bedroom-29.png",
-      "/images/products/modern-bedside-lamp-bedroom-29.png",
-      "/images/products/modern-bedside-lamp-bedroom-29.png"
+      "/images/products/modern-bedside-lamp-bedroom-29.webp",
+      "/images/products/modern-bedside-lamp-bedroom-29.webp",
+      "/images/products/modern-bedside-lamp-bedroom-29.webp",
+      "/images/products/modern-bedside-lamp-bedroom-29.webp"
     ],
     "description": "Bring understated elegance into your space with this bedside lamp pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from rattan & wicker, it was built with sustainably sourced materials that age beautifully over time. Available in cream, it's a versatile addition to any bedroom.",
     "features": [
@@ -1087,10 +1087,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/coastal-bedroom-bench-bedroom-30.png",
-      "/images/products/coastal-bedroom-bench-bedroom-30.png",
-      "/images/products/coastal-bedroom-bench-bedroom-30.png",
-      "/images/products/coastal-bedroom-bench-bedroom-30.png"
+      "/images/products/coastal-bedroom-bench-bedroom-30.webp",
+      "/images/products/coastal-bedroom-bench-bedroom-30.webp",
+      "/images/products/coastal-bedroom-bench-bedroom-30.webp",
+      "/images/products/coastal-bedroom-bench-bedroom-30.webp"
     ],
     "description": "A favorite among our customers, this bedroom bench brings a boutique-hotel feel to your home at a fraction of the price. Made from solid oak wood, it is the kind of piece that quietly pulls a whole room together. Available in sage green, it's a versatile addition to any bedroom.",
     "features": [
@@ -1124,10 +1124,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-full-length-mirror-bedroom-31.png",
-      "/images/products/modern-full-length-mirror-bedroom-31.png",
-      "/images/products/modern-full-length-mirror-bedroom-31.png",
-      "/images/products/modern-full-length-mirror-bedroom-31.png"
+      "/images/products/modern-full-length-mirror-bedroom-31.webp",
+      "/images/products/modern-full-length-mirror-bedroom-31.webp",
+      "/images/products/modern-full-length-mirror-bedroom-31.webp",
+      "/images/products/modern-full-length-mirror-bedroom-31.webp"
     ],
     "description": "Blending form and function, this full-length mirror adds warmth and texture without overwhelming the rest of your decor. Made from recycled glass, it brings a boutique-hotel feel to your home at a fraction of the price. Available in natural beige, it's a versatile addition to any bedroom.",
     "features": [
@@ -1161,10 +1161,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-bar-stool-kitchen-32.png",
-      "/images/products/boho-bar-stool-kitchen-32.png",
-      "/images/products/boho-bar-stool-kitchen-32.png",
-      "/images/products/boho-bar-stool-kitchen-32.png"
+      "/images/products/boho-bar-stool-kitchen-32.webp",
+      "/images/products/boho-bar-stool-kitchen-32.webp",
+      "/images/products/boho-bar-stool-kitchen-32.webp",
+      "/images/products/boho-bar-stool-kitchen-32.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this bar stool adds warmth and texture without overwhelming the rest of your decor. Made from bamboo, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in warm walnut, it's a versatile addition to any kitchen.",
     "features": [
@@ -1198,10 +1198,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/industrial-kitchen-island-cart-kitchen-33.png",
-      "/images/products/industrial-kitchen-island-cart-kitchen-33.png",
-      "/images/products/industrial-kitchen-island-cart-kitchen-33.png",
-      "/images/products/industrial-kitchen-island-cart-kitchen-33.png"
+      "/images/products/industrial-kitchen-island-cart-kitchen-33.webp",
+      "/images/products/industrial-kitchen-island-cart-kitchen-33.webp",
+      "/images/products/industrial-kitchen-island-cart-kitchen-33.webp",
+      "/images/products/industrial-kitchen-island-cart-kitchen-33.webp"
     ],
     "description": "Made to last through every season, this kitchen island cart combines natural textures with clean lines for a look that feels curated, not cluttered. Made from brushed brass, it brings a boutique-hotel feel to your home at a fraction of the price. Available in natural beige, it's a versatile addition to any kitchen.",
     "features": [
@@ -1235,10 +1235,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-utensil-crock-kitchen-34.png",
-      "/images/products/boho-utensil-crock-kitchen-34.png",
-      "/images/products/boho-utensil-crock-kitchen-34.png",
-      "/images/products/boho-utensil-crock-kitchen-34.png"
+      "/images/products/boho-utensil-crock-kitchen-34.webp",
+      "/images/products/boho-utensil-crock-kitchen-34.webp",
+      "/images/products/boho-utensil-crock-kitchen-34.webp",
+      "/images/products/boho-utensil-crock-kitchen-34.webp"
     ],
     "description": "Designed to warm up any room, this utensil crock is the kind of piece that quietly pulls a whole room together. Made from reclaimed pine, it is finished by hand, so no two pieces are exactly alike. Available in terracotta, it's a versatile addition to any kitchen.",
     "features": [
@@ -1272,10 +1272,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-spice-rack-kitchen-35.png",
-      "/images/products/industrial-spice-rack-kitchen-35.png",
-      "/images/products/industrial-spice-rack-kitchen-35.png",
-      "/images/products/industrial-spice-rack-kitchen-35.png"
+      "/images/products/industrial-spice-rack-kitchen-35.webp",
+      "/images/products/industrial-spice-rack-kitchen-35.webp",
+      "/images/products/industrial-spice-rack-kitchen-35.webp",
+      "/images/products/industrial-spice-rack-kitchen-35.webp"
     ],
     "description": "Crafted for everyday comfort, this spice rack pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from linen & cotton blend, it was built with sustainably sourced materials that age beautifully over time. Available in warm walnut, it's a versatile addition to any kitchen.",
     "features": [
@@ -1309,10 +1309,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-cutting-board-set-kitchen-36.png",
-      "/images/products/boho-cutting-board-set-kitchen-36.png",
-      "/images/products/boho-cutting-board-set-kitchen-36.png",
-      "/images/products/boho-cutting-board-set-kitchen-36.png"
+      "/images/products/boho-cutting-board-set-kitchen-36.webp",
+      "/images/products/boho-cutting-board-set-kitchen-36.webp",
+      "/images/products/boho-cutting-board-set-kitchen-36.webp",
+      "/images/products/boho-cutting-board-set-kitchen-36.webp"
     ],
     "description": "Crafted for everyday comfort, this cutting board set brings a boutique-hotel feel to your home at a fraction of the price. Made from rattan & wicker, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in slate grey, it's a versatile addition to any kitchen.",
     "features": [
@@ -1346,10 +1346,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-pot-rack-kitchen-37.png",
-      "/images/products/farmhouse-pot-rack-kitchen-37.png",
-      "/images/products/farmhouse-pot-rack-kitchen-37.png",
-      "/images/products/farmhouse-pot-rack-kitchen-37.png"
+      "/images/products/farmhouse-pot-rack-kitchen-37.webp",
+      "/images/products/farmhouse-pot-rack-kitchen-37.webp",
+      "/images/products/farmhouse-pot-rack-kitchen-37.webp",
+      "/images/products/farmhouse-pot-rack-kitchen-37.webp"
     ],
     "description": "Made to last through every season, this pot rack was built with sustainably sourced materials that age beautifully over time. Made from solid oak wood, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in terracotta, it's a versatile addition to any kitchen.",
     "features": [
@@ -1383,10 +1383,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-dish-towel-set-kitchen-38.png",
-      "/images/products/minimalist-dish-towel-set-kitchen-38.png",
-      "/images/products/minimalist-dish-towel-set-kitchen-38.png",
-      "/images/products/minimalist-dish-towel-set-kitchen-38.png"
+      "/images/products/minimalist-dish-towel-set-kitchen-38.webp",
+      "/images/products/minimalist-dish-towel-set-kitchen-38.webp",
+      "/images/products/minimalist-dish-towel-set-kitchen-38.webp",
+      "/images/products/minimalist-dish-towel-set-kitchen-38.webp"
     ],
     "description": "Blending form and function, this dish towel set combines natural textures with clean lines for a look that feels curated, not cluttered. Made from recycled glass, it brings a boutique-hotel feel to your home at a fraction of the price. Available in warm walnut, it's a versatile addition to any kitchen.",
     "features": [
@@ -1420,10 +1420,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-fruit-bowl-kitchen-39.png",
-      "/images/products/farmhouse-fruit-bowl-kitchen-39.png",
-      "/images/products/farmhouse-fruit-bowl-kitchen-39.png",
-      "/images/products/farmhouse-fruit-bowl-kitchen-39.png"
+      "/images/products/farmhouse-fruit-bowl-kitchen-39.webp",
+      "/images/products/farmhouse-fruit-bowl-kitchen-39.webp",
+      "/images/products/farmhouse-fruit-bowl-kitchen-39.webp",
+      "/images/products/farmhouse-fruit-bowl-kitchen-39.webp"
     ],
     "description": "A quiet statement piece, this fruit bowl adds warmth and texture without overwhelming the rest of your decor. Made from bamboo, it is finished by hand, so no two pieces are exactly alike. Available in slate grey, it's a versatile addition to any kitchen.",
     "features": [
@@ -1457,10 +1457,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/minimalist-canister-set-kitchen-40.png",
-      "/images/products/minimalist-canister-set-kitchen-40.png",
-      "/images/products/minimalist-canister-set-kitchen-40.png",
-      "/images/products/minimalist-canister-set-kitchen-40.png"
+      "/images/products/minimalist-canister-set-kitchen-40.webp",
+      "/images/products/minimalist-canister-set-kitchen-40.webp",
+      "/images/products/minimalist-canister-set-kitchen-40.webp",
+      "/images/products/minimalist-canister-set-kitchen-40.webp"
     ],
     "description": "Bring understated elegance into your space with this canister set is finished by hand, so no two pieces are exactly alike. Made from ceramic stoneware, it was built with sustainably sourced materials that age beautifully over time. Available in terracotta, it's a versatile addition to any kitchen.",
     "features": [
@@ -1494,10 +1494,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-wine-rack-kitchen-41.png",
-      "/images/products/farmhouse-wine-rack-kitchen-41.png",
-      "/images/products/farmhouse-wine-rack-kitchen-41.png",
-      "/images/products/farmhouse-wine-rack-kitchen-41.png"
+      "/images/products/farmhouse-wine-rack-kitchen-41.webp",
+      "/images/products/farmhouse-wine-rack-kitchen-41.webp",
+      "/images/products/farmhouse-wine-rack-kitchen-41.webp",
+      "/images/products/farmhouse-wine-rack-kitchen-41.webp"
     ],
     "description": "A favorite among our customers, this wine rack was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from brushed brass, it adds warmth and texture without overwhelming the rest of your decor. Available in ivory, it's a versatile addition to any kitchen.",
     "features": [
@@ -1531,10 +1531,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/vintage-kitchen-runner-rug-kitchen-42.png",
-      "/images/products/vintage-kitchen-runner-rug-kitchen-42.png",
-      "/images/products/vintage-kitchen-runner-rug-kitchen-42.png",
-      "/images/products/vintage-kitchen-runner-rug-kitchen-42.png"
+      "/images/products/vintage-kitchen-runner-rug-kitchen-42.webp",
+      "/images/products/vintage-kitchen-runner-rug-kitchen-42.webp",
+      "/images/products/vintage-kitchen-runner-rug-kitchen-42.webp",
+      "/images/products/vintage-kitchen-runner-rug-kitchen-42.webp"
     ],
     "description": "Blending form and function, this kitchen runner rug pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from linen & cotton blend, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in slate grey, it's a versatile addition to any kitchen.",
     "features": [
@@ -1568,10 +1568,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.png",
-      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.png",
-      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.png",
-      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.png"
+      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.webp",
+      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.webp",
+      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.webp",
+      "/images/products/mid-century-pantry-shelving-unit-kitchen-43.webp"
     ],
     "description": "A quiet statement piece, this pantry shelving unit brings a boutique-hotel feel to your home at a fraction of the price. Made from powder-coated iron, it brings a boutique-hotel feel to your home at a fraction of the price. Available in charcoal, it's a versatile addition to any kitchen.",
     "features": [
@@ -1605,10 +1605,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-napkin-holder-kitchen-44.png",
-      "/images/products/vintage-napkin-holder-kitchen-44.png",
-      "/images/products/vintage-napkin-holder-kitchen-44.png",
-      "/images/products/vintage-napkin-holder-kitchen-44.png"
+      "/images/products/vintage-napkin-holder-kitchen-44.webp",
+      "/images/products/vintage-napkin-holder-kitchen-44.webp",
+      "/images/products/vintage-napkin-holder-kitchen-44.webp",
+      "/images/products/vintage-napkin-holder-kitchen-44.webp"
     ],
     "description": "Bring understated elegance into your space with this napkin holder adds warmth and texture without overwhelming the rest of your decor. Made from rattan & wicker, it is finished by hand, so no two pieces are exactly alike. Available in ivory, it's a versatile addition to any kitchen.",
     "features": [
@@ -1642,10 +1642,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-vanity-mirror-bathroom-45.png",
-      "/images/products/modern-vanity-mirror-bathroom-45.png",
-      "/images/products/modern-vanity-mirror-bathroom-45.png",
-      "/images/products/modern-vanity-mirror-bathroom-45.png"
+      "/images/products/modern-vanity-mirror-bathroom-45.webp",
+      "/images/products/modern-vanity-mirror-bathroom-45.webp",
+      "/images/products/modern-vanity-mirror-bathroom-45.webp",
+      "/images/products/modern-vanity-mirror-bathroom-45.webp"
     ],
     "description": "Crafted for everyday comfort, this vanity mirror combines natural textures with clean lines for a look that feels curated, not cluttered. Made from walnut veneer, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in dusty rose, it's a versatile addition to any bathroom.",
     "features": [
@@ -1679,10 +1679,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-towel-ladder-bathroom-46.png",
-      "/images/products/scandinavian-towel-ladder-bathroom-46.png",
-      "/images/products/scandinavian-towel-ladder-bathroom-46.png",
-      "/images/products/scandinavian-towel-ladder-bathroom-46.png"
+      "/images/products/scandinavian-towel-ladder-bathroom-46.webp",
+      "/images/products/scandinavian-towel-ladder-bathroom-46.webp",
+      "/images/products/scandinavian-towel-ladder-bathroom-46.webp",
+      "/images/products/scandinavian-towel-ladder-bathroom-46.webp"
     ],
     "description": "A favorite among our customers, this towel ladder brings a boutique-hotel feel to your home at a fraction of the price. Made from ceramic stoneware, it is the kind of piece that quietly pulls a whole room together. Available in amber, it's a versatile addition to any bathroom.",
     "features": [
@@ -1716,10 +1716,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-shower-curtain-bathroom-47.png",
-      "/images/products/rustic-shower-curtain-bathroom-47.png",
-      "/images/products/rustic-shower-curtain-bathroom-47.png",
-      "/images/products/rustic-shower-curtain-bathroom-47.png"
+      "/images/products/rustic-shower-curtain-bathroom-47.webp",
+      "/images/products/rustic-shower-curtain-bathroom-47.webp",
+      "/images/products/rustic-shower-curtain-bathroom-47.webp",
+      "/images/products/rustic-shower-curtain-bathroom-47.webp"
     ],
     "description": "Made to last through every season, this shower curtain pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from brushed brass, it is the kind of piece that quietly pulls a whole room together. Available in charcoal, it's a versatile addition to any bathroom.",
     "features": [
@@ -1753,10 +1753,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-bath-mat-bathroom-48.png",
-      "/images/products/scandinavian-bath-mat-bathroom-48.png",
-      "/images/products/scandinavian-bath-mat-bathroom-48.png",
-      "/images/products/scandinavian-bath-mat-bathroom-48.png"
+      "/images/products/scandinavian-bath-mat-bathroom-48.webp",
+      "/images/products/scandinavian-bath-mat-bathroom-48.webp",
+      "/images/products/scandinavian-bath-mat-bathroom-48.webp",
+      "/images/products/scandinavian-bath-mat-bathroom-48.webp"
     ],
     "description": "Designed to warm up any room, this bath mat was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from reclaimed pine, it brings a boutique-hotel feel to your home at a fraction of the price. Available in dusty rose, it's a versatile addition to any bathroom.",
     "features": [
@@ -1790,10 +1790,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-storage-cart-bathroom-49.png",
-      "/images/products/rustic-storage-cart-bathroom-49.png",
-      "/images/products/rustic-storage-cart-bathroom-49.png",
-      "/images/products/rustic-storage-cart-bathroom-49.png"
+      "/images/products/rustic-storage-cart-bathroom-49.webp",
+      "/images/products/rustic-storage-cart-bathroom-49.webp",
+      "/images/products/rustic-storage-cart-bathroom-49.webp",
+      "/images/products/rustic-storage-cart-bathroom-49.webp"
     ],
     "description": "Crafted for everyday comfort, this storage cart was built with sustainably sourced materials that age beautifully over time. Made from powder-coated iron, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in amber, it's a versatile addition to any bathroom.",
     "features": [
@@ -1827,10 +1827,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.png",
-      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.png",
-      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.png",
-      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.png"
+      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.webp",
+      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.webp",
+      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.webp",
+      "/images/products/scandinavian-soap-dispenser-set-bathroom-50.webp"
     ],
     "description": "Blending form and function, this soap dispenser set combines natural textures with clean lines for a look that feels curated, not cluttered. Made from rattan & wicker, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in sage green, it's a versatile addition to any bathroom.",
     "features": [
@@ -1864,10 +1864,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/boho-wall-shelf-bathroom-51.png",
-      "/images/products/boho-wall-shelf-bathroom-51.png",
-      "/images/products/boho-wall-shelf-bathroom-51.png",
-      "/images/products/boho-wall-shelf-bathroom-51.png"
+      "/images/products/boho-wall-shelf-bathroom-51.webp",
+      "/images/products/boho-wall-shelf-bathroom-51.webp",
+      "/images/products/boho-wall-shelf-bathroom-51.webp",
+      "/images/products/boho-wall-shelf-bathroom-51.webp"
     ],
     "description": "A favorite among our customers, this wall shelf is the kind of piece that quietly pulls a whole room together. Made from solid oak wood, it was built with sustainably sourced materials that age beautifully over time. Available in dusty rose, it's a versatile addition to any bathroom.",
     "features": [
@@ -1901,10 +1901,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-laundry-hamper-bathroom-52.png",
-      "/images/products/industrial-laundry-hamper-bathroom-52.png",
-      "/images/products/industrial-laundry-hamper-bathroom-52.png",
-      "/images/products/industrial-laundry-hamper-bathroom-52.png"
+      "/images/products/industrial-laundry-hamper-bathroom-52.webp",
+      "/images/products/industrial-laundry-hamper-bathroom-52.webp",
+      "/images/products/industrial-laundry-hamper-bathroom-52.webp",
+      "/images/products/industrial-laundry-hamper-bathroom-52.webp"
     ],
     "description": "Blending form and function, this laundry hamper is finished by hand, so no two pieces are exactly alike. Made from walnut veneer, it is the kind of piece that quietly pulls a whole room together. Available in cream, it's a versatile addition to any bathroom.",
     "features": [
@@ -1938,10 +1938,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/boho-toothbrush-holder-bathroom-53.png",
-      "/images/products/boho-toothbrush-holder-bathroom-53.png",
-      "/images/products/boho-toothbrush-holder-bathroom-53.png",
-      "/images/products/boho-toothbrush-holder-bathroom-53.png"
+      "/images/products/boho-toothbrush-holder-bathroom-53.webp",
+      "/images/products/boho-toothbrush-holder-bathroom-53.webp",
+      "/images/products/boho-toothbrush-holder-bathroom-53.webp",
+      "/images/products/boho-toothbrush-holder-bathroom-53.webp"
     ],
     "description": "A quiet statement piece, this toothbrush holder was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from bamboo, it brings a boutique-hotel feel to your home at a fraction of the price. Available in sage green, it's a versatile addition to any bathroom.",
     "features": [
@@ -1975,10 +1975,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-bathroom-cabinet-bathroom-54.png",
-      "/images/products/industrial-bathroom-cabinet-bathroom-54.png",
-      "/images/products/industrial-bathroom-cabinet-bathroom-54.png",
-      "/images/products/industrial-bathroom-cabinet-bathroom-54.png"
+      "/images/products/industrial-bathroom-cabinet-bathroom-54.webp",
+      "/images/products/industrial-bathroom-cabinet-bathroom-54.webp",
+      "/images/products/industrial-bathroom-cabinet-bathroom-54.webp",
+      "/images/products/industrial-bathroom-cabinet-bathroom-54.webp"
     ],
     "description": "Bring understated elegance into your space with this bathroom cabinet was built with sustainably sourced materials that age beautifully over time. Made from ceramic stoneware, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in dusty rose, it's a versatile addition to any bathroom.",
     "features": [
@@ -2012,10 +2012,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-shower-caddy-bathroom-55.png",
-      "/images/products/boho-shower-caddy-bathroom-55.png",
-      "/images/products/boho-shower-caddy-bathroom-55.png",
-      "/images/products/boho-shower-caddy-bathroom-55.png"
+      "/images/products/boho-shower-caddy-bathroom-55.webp",
+      "/images/products/boho-shower-caddy-bathroom-55.webp",
+      "/images/products/boho-shower-caddy-bathroom-55.webp",
+      "/images/products/boho-shower-caddy-bathroom-55.webp"
     ],
     "description": "A favorite among our customers, this shower caddy was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from reclaimed pine, it brings a boutique-hotel feel to your home at a fraction of the price. Available in cream, it's a versatile addition to any bathroom.",
     "features": [
@@ -2049,10 +2049,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-corner-shelf-unit-bathroom-56.png",
-      "/images/products/industrial-corner-shelf-unit-bathroom-56.png",
-      "/images/products/industrial-corner-shelf-unit-bathroom-56.png",
-      "/images/products/industrial-corner-shelf-unit-bathroom-56.png"
+      "/images/products/industrial-corner-shelf-unit-bathroom-56.webp",
+      "/images/products/industrial-corner-shelf-unit-bathroom-56.webp",
+      "/images/products/industrial-corner-shelf-unit-bathroom-56.webp",
+      "/images/products/industrial-corner-shelf-unit-bathroom-56.webp"
     ],
     "description": "Blending form and function, this corner shelf unit adds warmth and texture without overwhelming the rest of your decor. Made from linen & cotton blend, it was built with sustainably sourced materials that age beautifully over time. Available in sage green, it's a versatile addition to any bathroom.",
     "features": [
@@ -2086,10 +2086,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-dining-table-dining-room-57.png",
-      "/images/products/mid-century-dining-table-dining-room-57.png",
-      "/images/products/mid-century-dining-table-dining-room-57.png",
-      "/images/products/mid-century-dining-table-dining-room-57.png"
+      "/images/products/mid-century-dining-table-dining-room-57.webp",
+      "/images/products/mid-century-dining-table-dining-room-57.webp",
+      "/images/products/mid-century-dining-table-dining-room-57.webp",
+      "/images/products/mid-century-dining-table-dining-room-57.webp"
     ],
     "description": "Designed to warm up any room, this dining table is the kind of piece that quietly pulls a whole room together. Made from walnut veneer, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in natural beige, it's a versatile addition to any dining room.",
     "features": [
@@ -2123,10 +2123,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-dining-chair-set-dining-room-58.png",
-      "/images/products/vintage-dining-chair-set-dining-room-58.png",
-      "/images/products/vintage-dining-chair-set-dining-room-58.png",
-      "/images/products/vintage-dining-chair-set-dining-room-58.png"
+      "/images/products/vintage-dining-chair-set-dining-room-58.webp",
+      "/images/products/vintage-dining-chair-set-dining-room-58.webp",
+      "/images/products/vintage-dining-chair-set-dining-room-58.webp",
+      "/images/products/vintage-dining-chair-set-dining-room-58.webp"
     ],
     "description": "Crafted for everyday comfort, this dining chair set pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from bamboo, it brings a boutique-hotel feel to your home at a fraction of the price. Available in terracotta, it's a versatile addition to any dining room.",
     "features": [
@@ -2160,10 +2160,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-buffet-cabinet-dining-room-59.png",
-      "/images/products/mid-century-buffet-cabinet-dining-room-59.png",
-      "/images/products/mid-century-buffet-cabinet-dining-room-59.png",
-      "/images/products/mid-century-buffet-cabinet-dining-room-59.png"
+      "/images/products/mid-century-buffet-cabinet-dining-room-59.webp",
+      "/images/products/mid-century-buffet-cabinet-dining-room-59.webp",
+      "/images/products/mid-century-buffet-cabinet-dining-room-59.webp",
+      "/images/products/mid-century-buffet-cabinet-dining-room-59.webp"
     ],
     "description": "Crafted for everyday comfort, this buffet cabinet brings a boutique-hotel feel to your home at a fraction of the price. Made from ceramic stoneware, it brings a boutique-hotel feel to your home at a fraction of the price. Available in warm walnut, it's a versatile addition to any dining room.",
     "features": [
@@ -2197,10 +2197,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-table-runner-dining-room-60.png",
-      "/images/products/coastal-table-runner-dining-room-60.png",
-      "/images/products/coastal-table-runner-dining-room-60.png",
-      "/images/products/coastal-table-runner-dining-room-60.png"
+      "/images/products/coastal-table-runner-dining-room-60.webp",
+      "/images/products/coastal-table-runner-dining-room-60.webp",
+      "/images/products/coastal-table-runner-dining-room-60.webp",
+      "/images/products/coastal-table-runner-dining-room-60.webp"
     ],
     "description": "Made to last through every season, this table runner was built with sustainably sourced materials that age beautifully over time. Made from reclaimed pine, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in slate grey, it's a versatile addition to any dining room.",
     "features": [
@@ -2234,10 +2234,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-pendant-light-dining-room-61.png",
-      "/images/products/modern-pendant-light-dining-room-61.png",
-      "/images/products/modern-pendant-light-dining-room-61.png",
-      "/images/products/modern-pendant-light-dining-room-61.png"
+      "/images/products/modern-pendant-light-dining-room-61.webp",
+      "/images/products/modern-pendant-light-dining-room-61.webp",
+      "/images/products/modern-pendant-light-dining-room-61.webp",
+      "/images/products/modern-pendant-light-dining-room-61.webp"
     ],
     "description": "Designed to warm up any room, this pendant light combines natural textures with clean lines for a look that feels curated, not cluttered. Made from linen & cotton blend, it adds warmth and texture without overwhelming the rest of your decor. Available in terracotta, it's a versatile addition to any dining room.",
     "features": [
@@ -2271,10 +2271,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-china-cabinet-dining-room-62.png",
-      "/images/products/coastal-china-cabinet-dining-room-62.png",
-      "/images/products/coastal-china-cabinet-dining-room-62.png",
-      "/images/products/coastal-china-cabinet-dining-room-62.png"
+      "/images/products/coastal-china-cabinet-dining-room-62.webp",
+      "/images/products/coastal-china-cabinet-dining-room-62.webp",
+      "/images/products/coastal-china-cabinet-dining-room-62.webp",
+      "/images/products/coastal-china-cabinet-dining-room-62.webp"
     ],
     "description": "A quiet statement piece, this china cabinet is the kind of piece that quietly pulls a whole room together. Made from powder-coated iron, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in warm walnut, it's a versatile addition to any dining room.",
     "features": [
@@ -2308,10 +2308,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/modern-placemat-set-dining-room-63.png",
-      "/images/products/modern-placemat-set-dining-room-63.png",
-      "/images/products/modern-placemat-set-dining-room-63.png",
-      "/images/products/modern-placemat-set-dining-room-63.png"
+      "/images/products/modern-placemat-set-dining-room-63.webp",
+      "/images/products/modern-placemat-set-dining-room-63.webp",
+      "/images/products/modern-placemat-set-dining-room-63.webp",
+      "/images/products/modern-placemat-set-dining-room-63.webp"
     ],
     "description": "Bring understated elegance into your space with this placemat set is finished by hand, so no two pieces are exactly alike. Made from solid oak wood, it brings a boutique-hotel feel to your home at a fraction of the price. Available in slate grey, it's a versatile addition to any dining room.",
     "features": [
@@ -2345,10 +2345,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/coastal-centerpiece-bowl-dining-room-64.png",
-      "/images/products/coastal-centerpiece-bowl-dining-room-64.png",
-      "/images/products/coastal-centerpiece-bowl-dining-room-64.png",
-      "/images/products/coastal-centerpiece-bowl-dining-room-64.png"
+      "/images/products/coastal-centerpiece-bowl-dining-room-64.webp",
+      "/images/products/coastal-centerpiece-bowl-dining-room-64.webp",
+      "/images/products/coastal-centerpiece-bowl-dining-room-64.webp",
+      "/images/products/coastal-centerpiece-bowl-dining-room-64.webp"
     ],
     "description": "A quiet statement piece, this centerpiece bowl was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from recycled glass, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in terracotta, it's a versatile addition to any dining room.",
     "features": [
@@ -2382,10 +2382,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/rustic-dining-bench-dining-room-65.png",
-      "/images/products/rustic-dining-bench-dining-room-65.png",
-      "/images/products/rustic-dining-bench-dining-room-65.png",
-      "/images/products/rustic-dining-bench-dining-room-65.png"
+      "/images/products/rustic-dining-bench-dining-room-65.webp",
+      "/images/products/rustic-dining-bench-dining-room-65.webp",
+      "/images/products/rustic-dining-bench-dining-room-65.webp",
+      "/images/products/rustic-dining-bench-dining-room-65.webp"
     ],
     "description": "Blending form and function, this dining bench was built with sustainably sourced materials that age beautifully over time. Made from walnut veneer, it was built with sustainably sourced materials that age beautifully over time. Available in ivory, it's a versatile addition to any dining room.",
     "features": [
@@ -2419,10 +2419,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-wine-cabinet-dining-room-66.png",
-      "/images/products/scandinavian-wine-cabinet-dining-room-66.png",
-      "/images/products/scandinavian-wine-cabinet-dining-room-66.png",
-      "/images/products/scandinavian-wine-cabinet-dining-room-66.png"
+      "/images/products/scandinavian-wine-cabinet-dining-room-66.webp",
+      "/images/products/scandinavian-wine-cabinet-dining-room-66.webp",
+      "/images/products/scandinavian-wine-cabinet-dining-room-66.webp",
+      "/images/products/scandinavian-wine-cabinet-dining-room-66.webp"
     ],
     "description": "A quiet statement piece, this wine cabinet brings a boutique-hotel feel to your home at a fraction of the price. Made from ceramic stoneware, it adds warmth and texture without overwhelming the rest of your decor. Available in slate grey, it's a versatile addition to any dining room.",
     "features": [
@@ -2456,10 +2456,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-bar-cart-dining-room-67.png",
-      "/images/products/rustic-bar-cart-dining-room-67.png",
-      "/images/products/rustic-bar-cart-dining-room-67.png",
-      "/images/products/rustic-bar-cart-dining-room-67.png"
+      "/images/products/rustic-bar-cart-dining-room-67.webp",
+      "/images/products/rustic-bar-cart-dining-room-67.webp",
+      "/images/products/rustic-bar-cart-dining-room-67.webp",
+      "/images/products/rustic-bar-cart-dining-room-67.webp"
     ],
     "description": "Bring understated elegance into your space with this bar cart adds warmth and texture without overwhelming the rest of your decor. Made from brushed brass, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in terracotta, it's a versatile addition to any dining room.",
     "features": [
@@ -2493,10 +2493,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-desk-office-68.png",
-      "/images/products/farmhouse-desk-office-68.png",
-      "/images/products/farmhouse-desk-office-68.png",
-      "/images/products/farmhouse-desk-office-68.png"
+      "/images/products/farmhouse-desk-office-68.webp",
+      "/images/products/farmhouse-desk-office-68.webp",
+      "/images/products/farmhouse-desk-office-68.webp",
+      "/images/products/farmhouse-desk-office-68.webp"
     ],
     "description": "Made to last through every season, this desk pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from recycled glass, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in amber, it's a versatile addition to any office.",
     "features": [
@@ -2530,10 +2530,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-office-chair-office-69.png",
-      "/images/products/minimalist-office-chair-office-69.png",
-      "/images/products/minimalist-office-chair-office-69.png",
-      "/images/products/minimalist-office-chair-office-69.png"
+      "/images/products/minimalist-office-chair-office-69.webp",
+      "/images/products/minimalist-office-chair-office-69.webp",
+      "/images/products/minimalist-office-chair-office-69.webp",
+      "/images/products/minimalist-office-chair-office-69.webp"
     ],
     "description": "Designed to warm up any room, this office chair brings a boutique-hotel feel to your home at a fraction of the price. Made from walnut veneer, it was built with sustainably sourced materials that age beautifully over time. Available in charcoal, it's a versatile addition to any office.",
     "features": [
@@ -2567,10 +2567,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-bookcase-office-70.png",
-      "/images/products/farmhouse-bookcase-office-70.png",
-      "/images/products/farmhouse-bookcase-office-70.png",
-      "/images/products/farmhouse-bookcase-office-70.png"
+      "/images/products/farmhouse-bookcase-office-70.webp",
+      "/images/products/farmhouse-bookcase-office-70.webp",
+      "/images/products/farmhouse-bookcase-office-70.webp",
+      "/images/products/farmhouse-bookcase-office-70.webp"
     ],
     "description": "Crafted for everyday comfort, this bookcase adds warmth and texture without overwhelming the rest of your decor. Made from bamboo, it is the kind of piece that quietly pulls a whole room together. Available in dusty rose, it's a versatile addition to any office.",
     "features": [
@@ -2604,10 +2604,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-desk-organizer-office-71.png",
-      "/images/products/minimalist-desk-organizer-office-71.png",
-      "/images/products/minimalist-desk-organizer-office-71.png",
-      "/images/products/minimalist-desk-organizer-office-71.png"
+      "/images/products/minimalist-desk-organizer-office-71.webp",
+      "/images/products/minimalist-desk-organizer-office-71.webp",
+      "/images/products/minimalist-desk-organizer-office-71.webp",
+      "/images/products/minimalist-desk-organizer-office-71.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this desk organizer combines natural textures with clean lines for a look that feels curated, not cluttered. Made from brushed brass, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in amber, it's a versatile addition to any office.",
     "features": [
@@ -2641,10 +2641,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-filing-cabinet-office-72.png",
-      "/images/products/mid-century-filing-cabinet-office-72.png",
-      "/images/products/mid-century-filing-cabinet-office-72.png",
-      "/images/products/mid-century-filing-cabinet-office-72.png"
+      "/images/products/mid-century-filing-cabinet-office-72.webp",
+      "/images/products/mid-century-filing-cabinet-office-72.webp",
+      "/images/products/mid-century-filing-cabinet-office-72.webp",
+      "/images/products/mid-century-filing-cabinet-office-72.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this filing cabinet is the kind of piece that quietly pulls a whole room together. Made from reclaimed pine, it is the kind of piece that quietly pulls a whole room together. Available in sage green, it's a versatile addition to any office.",
     "features": [
@@ -2678,10 +2678,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-desk-lamp-office-73.png",
-      "/images/products/vintage-desk-lamp-office-73.png",
-      "/images/products/vintage-desk-lamp-office-73.png",
-      "/images/products/vintage-desk-lamp-office-73.png"
+      "/images/products/vintage-desk-lamp-office-73.webp",
+      "/images/products/vintage-desk-lamp-office-73.webp",
+      "/images/products/vintage-desk-lamp-office-73.webp",
+      "/images/products/vintage-desk-lamp-office-73.webp"
     ],
     "description": "Blending form and function, this desk lamp pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from linen & cotton blend, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in dusty rose, it's a versatile addition to any office.",
     "features": [
@@ -2715,10 +2715,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/mid-century-monitor-stand-office-74.png",
-      "/images/products/mid-century-monitor-stand-office-74.png",
-      "/images/products/mid-century-monitor-stand-office-74.png",
-      "/images/products/mid-century-monitor-stand-office-74.png"
+      "/images/products/mid-century-monitor-stand-office-74.webp",
+      "/images/products/mid-century-monitor-stand-office-74.webp",
+      "/images/products/mid-century-monitor-stand-office-74.webp",
+      "/images/products/mid-century-monitor-stand-office-74.webp"
     ],
     "description": "A quiet statement piece, this monitor stand was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from rattan & wicker, it was built with sustainably sourced materials that age beautifully over time. Available in amber, it's a versatile addition to any office.",
     "features": [
@@ -2752,10 +2752,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-task-chair-office-75.png",
-      "/images/products/vintage-task-chair-office-75.png",
-      "/images/products/vintage-task-chair-office-75.png",
-      "/images/products/vintage-task-chair-office-75.png"
+      "/images/products/vintage-task-chair-office-75.webp",
+      "/images/products/vintage-task-chair-office-75.webp",
+      "/images/products/vintage-task-chair-office-75.webp",
+      "/images/products/vintage-task-chair-office-75.webp"
     ],
     "description": "Bring understated elegance into your space with this task chair was built with sustainably sourced materials that age beautifully over time. Made from solid oak wood, it is the kind of piece that quietly pulls a whole room together. Available in sage green, it's a versatile addition to any office.",
     "features": [
@@ -2789,10 +2789,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/mid-century-cork-board-office-76.png",
-      "/images/products/mid-century-cork-board-office-76.png",
-      "/images/products/mid-century-cork-board-office-76.png",
-      "/images/products/mid-century-cork-board-office-76.png"
+      "/images/products/mid-century-cork-board-office-76.webp",
+      "/images/products/mid-century-cork-board-office-76.webp",
+      "/images/products/mid-century-cork-board-office-76.webp",
+      "/images/products/mid-century-cork-board-office-76.webp"
     ],
     "description": "A favorite among our customers, this cork board combines natural textures with clean lines for a look that feels curated, not cluttered. Made from recycled glass, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in dusty rose, it's a versatile addition to any office.",
     "features": [
@@ -2826,10 +2826,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/vintage-storage-ottoman-office-77.png",
-      "/images/products/vintage-storage-ottoman-office-77.png",
-      "/images/products/vintage-storage-ottoman-office-77.png",
-      "/images/products/vintage-storage-ottoman-office-77.png"
+      "/images/products/vintage-storage-ottoman-office-77.webp",
+      "/images/products/vintage-storage-ottoman-office-77.webp",
+      "/images/products/vintage-storage-ottoman-office-77.webp",
+      "/images/products/vintage-storage-ottoman-office-77.webp"
     ],
     "description": "Crafted for everyday comfort, this storage ottoman adds warmth and texture without overwhelming the rest of your decor. Made from bamboo, it adds warmth and texture without overwhelming the rest of your decor. Available in cream, it's a versatile addition to any office.",
     "features": [
@@ -2863,10 +2863,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-standing-desk-converter-office-78.png",
-      "/images/products/modern-standing-desk-converter-office-78.png",
-      "/images/products/modern-standing-desk-converter-office-78.png",
-      "/images/products/modern-standing-desk-converter-office-78.png"
+      "/images/products/modern-standing-desk-converter-office-78.webp",
+      "/images/products/modern-standing-desk-converter-office-78.webp",
+      "/images/products/modern-standing-desk-converter-office-78.webp",
+      "/images/products/modern-standing-desk-converter-office-78.webp"
     ],
     "description": "A quiet statement piece, this standing desk converter is finished by hand, so no two pieces are exactly alike. Made from ceramic stoneware, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in sage green, it's a versatile addition to any office.",
     "features": [
@@ -2900,10 +2900,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-patio-sofa-set-outdoor-79.png",
-      "/images/products/scandinavian-patio-sofa-set-outdoor-79.png",
-      "/images/products/scandinavian-patio-sofa-set-outdoor-79.png",
-      "/images/products/scandinavian-patio-sofa-set-outdoor-79.png"
+      "/images/products/scandinavian-patio-sofa-set-outdoor-79.webp",
+      "/images/products/scandinavian-patio-sofa-set-outdoor-79.webp",
+      "/images/products/scandinavian-patio-sofa-set-outdoor-79.webp",
+      "/images/products/scandinavian-patio-sofa-set-outdoor-79.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this patio sofa set brings a boutique-hotel feel to your home at a fraction of the price. Made from solid oak wood, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in terracotta, it's a versatile addition to any outdoor.",
     "features": [
@@ -2937,10 +2937,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-outdoor-rug-outdoor-80.png",
-      "/images/products/boho-outdoor-rug-outdoor-80.png",
-      "/images/products/boho-outdoor-rug-outdoor-80.png",
-      "/images/products/boho-outdoor-rug-outdoor-80.png"
+      "/images/products/boho-outdoor-rug-outdoor-80.webp",
+      "/images/products/boho-outdoor-rug-outdoor-80.webp",
+      "/images/products/boho-outdoor-rug-outdoor-80.webp",
+      "/images/products/boho-outdoor-rug-outdoor-80.webp"
     ],
     "description": "Blending form and function, this outdoor rug is the kind of piece that quietly pulls a whole room together. Made from recycled glass, it adds warmth and texture without overwhelming the rest of your decor. Available in warm walnut, it's a versatile addition to any outdoor.",
     "features": [
@@ -2974,10 +2974,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/industrial-garden-planter-outdoor-81.png",
-      "/images/products/industrial-garden-planter-outdoor-81.png",
-      "/images/products/industrial-garden-planter-outdoor-81.png",
-      "/images/products/industrial-garden-planter-outdoor-81.png"
+      "/images/products/industrial-garden-planter-outdoor-81.webp",
+      "/images/products/industrial-garden-planter-outdoor-81.webp",
+      "/images/products/industrial-garden-planter-outdoor-81.webp",
+      "/images/products/industrial-garden-planter-outdoor-81.webp"
     ],
     "description": "Designed to warm up any room, this garden planter combines natural textures with clean lines for a look that feels curated, not cluttered. Made from bamboo, it is finished by hand, so no two pieces are exactly alike. Available in natural beige, it's a versatile addition to any outdoor.",
     "features": [
@@ -3011,10 +3011,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-string-lights-outdoor-82.png",
-      "/images/products/boho-string-lights-outdoor-82.png",
-      "/images/products/boho-string-lights-outdoor-82.png",
-      "/images/products/boho-string-lights-outdoor-82.png"
+      "/images/products/boho-string-lights-outdoor-82.webp",
+      "/images/products/boho-string-lights-outdoor-82.webp",
+      "/images/products/boho-string-lights-outdoor-82.webp",
+      "/images/products/boho-string-lights-outdoor-82.webp"
     ],
     "description": "Crafted for everyday comfort, this string lights is the kind of piece that quietly pulls a whole room together. Made from ceramic stoneware, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in terracotta, it's a versatile addition to any outdoor.",
     "features": [
@@ -3048,10 +3048,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/industrial-hammock-outdoor-83.png",
-      "/images/products/industrial-hammock-outdoor-83.png",
-      "/images/products/industrial-hammock-outdoor-83.png",
-      "/images/products/industrial-hammock-outdoor-83.png"
+      "/images/products/industrial-hammock-outdoor-83.webp",
+      "/images/products/industrial-hammock-outdoor-83.webp",
+      "/images/products/industrial-hammock-outdoor-83.webp",
+      "/images/products/industrial-hammock-outdoor-83.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this hammock pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from brushed brass, it adds warmth and texture without overwhelming the rest of your decor. Available in warm walnut, it's a versatile addition to any outdoor.",
     "features": [
@@ -3085,10 +3085,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/boho-patio-umbrella-outdoor-84.png",
-      "/images/products/boho-patio-umbrella-outdoor-84.png",
-      "/images/products/boho-patio-umbrella-outdoor-84.png",
-      "/images/products/boho-patio-umbrella-outdoor-84.png"
+      "/images/products/boho-patio-umbrella-outdoor-84.webp",
+      "/images/products/boho-patio-umbrella-outdoor-84.webp",
+      "/images/products/boho-patio-umbrella-outdoor-84.webp",
+      "/images/products/boho-patio-umbrella-outdoor-84.webp"
     ],
     "description": "A favorite among our customers, this patio umbrella was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from linen & cotton blend, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in slate grey, it's a versatile addition to any outdoor.",
     "features": [
@@ -3122,10 +3122,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.png",
-      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.png",
-      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.png",
-      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.png"
+      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.webp",
+      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.webp",
+      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.webp",
+      "/images/products/farmhouse-outdoor-cushion-set-outdoor-85.webp"
     ],
     "description": "Made to last through every season, this outdoor cushion set adds warmth and texture without overwhelming the rest of your decor. Made from powder-coated iron, it was built with sustainably sourced materials that age beautifully over time. Available in terracotta, it's a versatile addition to any outdoor.",
     "features": [
@@ -3159,10 +3159,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-fire-pit-table-outdoor-86.png",
-      "/images/products/minimalist-fire-pit-table-outdoor-86.png",
-      "/images/products/minimalist-fire-pit-table-outdoor-86.png",
-      "/images/products/minimalist-fire-pit-table-outdoor-86.png"
+      "/images/products/minimalist-fire-pit-table-outdoor-86.webp",
+      "/images/products/minimalist-fire-pit-table-outdoor-86.webp",
+      "/images/products/minimalist-fire-pit-table-outdoor-86.webp",
+      "/images/products/minimalist-fire-pit-table-outdoor-86.webp"
     ],
     "description": "A quiet statement piece, this fire pit table combines natural textures with clean lines for a look that feels curated, not cluttered. Made from rattan & wicker, it is finished by hand, so no two pieces are exactly alike. Available in ivory, it's a versatile addition to any outdoor.",
     "features": [
@@ -3196,10 +3196,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-garden-bench-outdoor-87.png",
-      "/images/products/farmhouse-garden-bench-outdoor-87.png",
-      "/images/products/farmhouse-garden-bench-outdoor-87.png",
-      "/images/products/farmhouse-garden-bench-outdoor-87.png"
+      "/images/products/farmhouse-garden-bench-outdoor-87.webp",
+      "/images/products/farmhouse-garden-bench-outdoor-87.webp",
+      "/images/products/farmhouse-garden-bench-outdoor-87.webp",
+      "/images/products/farmhouse-garden-bench-outdoor-87.webp"
     ],
     "description": "Bring understated elegance into your space with this garden bench is the kind of piece that quietly pulls a whole room together. Made from recycled glass, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in slate grey, it's a versatile addition to any outdoor.",
     "features": [
@@ -3233,10 +3233,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-outdoor-lantern-outdoor-88.png",
-      "/images/products/minimalist-outdoor-lantern-outdoor-88.png",
-      "/images/products/minimalist-outdoor-lantern-outdoor-88.png",
-      "/images/products/minimalist-outdoor-lantern-outdoor-88.png"
+      "/images/products/minimalist-outdoor-lantern-outdoor-88.webp",
+      "/images/products/minimalist-outdoor-lantern-outdoor-88.webp",
+      "/images/products/minimalist-outdoor-lantern-outdoor-88.webp",
+      "/images/products/minimalist-outdoor-lantern-outdoor-88.webp"
     ],
     "description": "A favorite among our customers, this outdoor lantern is finished by hand, so no two pieces are exactly alike. Made from walnut veneer, it adds warmth and texture without overwhelming the rest of your decor. Available in terracotta, it's a versatile addition to any outdoor.",
     "features": [
@@ -3270,10 +3270,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/farmhouse-adirondack-chair-outdoor-89.png",
-      "/images/products/farmhouse-adirondack-chair-outdoor-89.png",
-      "/images/products/farmhouse-adirondack-chair-outdoor-89.png",
-      "/images/products/farmhouse-adirondack-chair-outdoor-89.png"
+      "/images/products/farmhouse-adirondack-chair-outdoor-89.webp",
+      "/images/products/farmhouse-adirondack-chair-outdoor-89.webp",
+      "/images/products/farmhouse-adirondack-chair-outdoor-89.webp",
+      "/images/products/farmhouse-adirondack-chair-outdoor-89.webp"
     ],
     "description": "Blending form and function, this adirondack chair was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from bamboo, it was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Available in ivory, it's a versatile addition to any outdoor.",
     "features": [
@@ -3307,10 +3307,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/minimalist-trellis-planter-box-outdoor-90.png",
-      "/images/products/minimalist-trellis-planter-box-outdoor-90.png",
-      "/images/products/minimalist-trellis-planter-box-outdoor-90.png",
-      "/images/products/minimalist-trellis-planter-box-outdoor-90.png"
+      "/images/products/minimalist-trellis-planter-box-outdoor-90.webp",
+      "/images/products/minimalist-trellis-planter-box-outdoor-90.webp",
+      "/images/products/minimalist-trellis-planter-box-outdoor-90.webp",
+      "/images/products/minimalist-trellis-planter-box-outdoor-90.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this trellis planter box pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from brushed brass, it was built with sustainably sourced materials that age beautifully over time. Available in slate grey, it's a versatile addition to any outdoor.",
     "features": [
@@ -3344,10 +3344,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/coastal-floor-lamp-lighting-91.png",
-      "/images/products/coastal-floor-lamp-lighting-91.png",
-      "/images/products/coastal-floor-lamp-lighting-91.png",
-      "/images/products/coastal-floor-lamp-lighting-91.png"
+      "/images/products/coastal-floor-lamp-lighting-91.webp",
+      "/images/products/coastal-floor-lamp-lighting-91.webp",
+      "/images/products/coastal-floor-lamp-lighting-91.webp",
+      "/images/products/coastal-floor-lamp-lighting-91.webp"
     ],
     "description": "Crafted for everyday comfort, this floor lamp adds warmth and texture without overwhelming the rest of your decor. Made from rattan & wicker, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in charcoal, it's a versatile addition to any lighting.",
     "features": [
@@ -3381,10 +3381,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/modern-table-lamp-lighting-92.png",
-      "/images/products/modern-table-lamp-lighting-92.png",
-      "/images/products/modern-table-lamp-lighting-92.png",
-      "/images/products/modern-table-lamp-lighting-92.png"
+      "/images/products/modern-table-lamp-lighting-92.webp",
+      "/images/products/modern-table-lamp-lighting-92.webp",
+      "/images/products/modern-table-lamp-lighting-92.webp",
+      "/images/products/modern-table-lamp-lighting-92.webp"
     ],
     "description": "Thoughtfully designed for small and large spaces alike, this table lamp is finished by hand, so no two pieces are exactly alike. Made from solid oak wood, it was built with sustainably sourced materials that age beautifully over time. Available in dusty rose, it's a versatile addition to any lighting.",
     "features": [
@@ -3418,10 +3418,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/coastal-pendant-light-lighting-93.png",
-      "/images/products/coastal-pendant-light-lighting-93.png",
-      "/images/products/coastal-pendant-light-lighting-93.png",
-      "/images/products/coastal-pendant-light-lighting-93.png"
+      "/images/products/coastal-pendant-light-lighting-93.webp",
+      "/images/products/coastal-pendant-light-lighting-93.webp",
+      "/images/products/coastal-pendant-light-lighting-93.webp",
+      "/images/products/coastal-pendant-light-lighting-93.webp"
     ],
     "description": "Made to last through every season, this pendant light is the kind of piece that quietly pulls a whole room together. Made from walnut veneer, it is the kind of piece that quietly pulls a whole room together. Available in amber, it's a versatile addition to any lighting.",
     "features": [
@@ -3455,10 +3455,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-chandelier-lighting-94.png",
-      "/images/products/rustic-chandelier-lighting-94.png",
-      "/images/products/rustic-chandelier-lighting-94.png",
-      "/images/products/rustic-chandelier-lighting-94.png"
+      "/images/products/rustic-chandelier-lighting-94.webp",
+      "/images/products/rustic-chandelier-lighting-94.webp",
+      "/images/products/rustic-chandelier-lighting-94.webp",
+      "/images/products/rustic-chandelier-lighting-94.webp"
     ],
     "description": "A quiet statement piece, this chandelier was built with sustainably sourced materials that age beautifully over time. Made from bamboo, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in sage green, it's a versatile addition to any lighting.",
     "features": [
@@ -3492,10 +3492,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/scandinavian-wall-sconce-lighting-95.png",
-      "/images/products/scandinavian-wall-sconce-lighting-95.png",
-      "/images/products/scandinavian-wall-sconce-lighting-95.png",
-      "/images/products/scandinavian-wall-sconce-lighting-95.png"
+      "/images/products/scandinavian-wall-sconce-lighting-95.webp",
+      "/images/products/scandinavian-wall-sconce-lighting-95.webp",
+      "/images/products/scandinavian-wall-sconce-lighting-95.webp",
+      "/images/products/scandinavian-wall-sconce-lighting-95.webp"
     ],
     "description": "A quiet statement piece, this wall sconce brings a boutique-hotel feel to your home at a fraction of the price. Made from ceramic stoneware, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in dusty rose, it's a versatile addition to any lighting.",
     "features": [
@@ -3529,10 +3529,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-string-light-set-lighting-96.png",
-      "/images/products/rustic-string-light-set-lighting-96.png",
-      "/images/products/rustic-string-light-set-lighting-96.png",
-      "/images/products/rustic-string-light-set-lighting-96.png"
+      "/images/products/rustic-string-light-set-lighting-96.webp",
+      "/images/products/rustic-string-light-set-lighting-96.webp",
+      "/images/products/rustic-string-light-set-lighting-96.webp",
+      "/images/products/rustic-string-light-set-lighting-96.webp"
     ],
     "description": "Bring understated elegance into your space with this string light set was built with sustainably sourced materials that age beautifully over time. Made from reclaimed pine, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in amber, it's a versatile addition to any lighting.",
     "features": [
@@ -3566,10 +3566,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/scandinavian-desk-lamp-lighting-97.png",
-      "/images/products/scandinavian-desk-lamp-lighting-97.png",
-      "/images/products/scandinavian-desk-lamp-lighting-97.png",
-      "/images/products/scandinavian-desk-lamp-lighting-97.png"
+      "/images/products/scandinavian-desk-lamp-lighting-97.webp",
+      "/images/products/scandinavian-desk-lamp-lighting-97.webp",
+      "/images/products/scandinavian-desk-lamp-lighting-97.webp",
+      "/images/products/scandinavian-desk-lamp-lighting-97.webp"
     ],
     "description": "A favorite among our customers, this desk lamp combines natural textures with clean lines for a look that feels curated, not cluttered. Made from linen & cotton blend, it was built with sustainably sourced materials that age beautifully over time. Available in sage green, it's a versatile addition to any lighting.",
     "features": [
@@ -3603,10 +3603,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/rustic-ceiling-flush-mount-lighting-98.png",
-      "/images/products/rustic-ceiling-flush-mount-lighting-98.png",
-      "/images/products/rustic-ceiling-flush-mount-lighting-98.png",
-      "/images/products/rustic-ceiling-flush-mount-lighting-98.png"
+      "/images/products/rustic-ceiling-flush-mount-lighting-98.webp",
+      "/images/products/rustic-ceiling-flush-mount-lighting-98.webp",
+      "/images/products/rustic-ceiling-flush-mount-lighting-98.webp",
+      "/images/products/rustic-ceiling-flush-mount-lighting-98.webp"
     ],
     "description": "Blending form and function, this ceiling flush mount is the kind of piece that quietly pulls a whole room together. Made from powder-coated iron, it is the kind of piece that quietly pulls a whole room together. Available in dusty rose, it's a versatile addition to any lighting.",
     "features": [
@@ -3640,10 +3640,10 @@ export const products = [
     "isNew": true,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-rattan-lamp-shade-lighting-99.png",
-      "/images/products/industrial-rattan-lamp-shade-lighting-99.png",
-      "/images/products/industrial-rattan-lamp-shade-lighting-99.png",
-      "/images/products/industrial-rattan-lamp-shade-lighting-99.png"
+      "/images/products/industrial-rattan-lamp-shade-lighting-99.webp",
+      "/images/products/industrial-rattan-lamp-shade-lighting-99.webp",
+      "/images/products/industrial-rattan-lamp-shade-lighting-99.webp",
+      "/images/products/industrial-rattan-lamp-shade-lighting-99.webp"
     ],
     "description": "Blending form and function, this rattan lamp shade pairs easily with existing furniture, making it simple to refresh a room without starting over. Made from solid oak wood, it is finished by hand, so no two pieces are exactly alike. Available in cream, it's a versatile addition to any lighting.",
     "features": [
@@ -3677,10 +3677,10 @@ export const products = [
     "isNew": false,
     "isBestseller": true,
     "images": [
-      "/images/products/boho-led-strip-kit-lighting-100.png",
-      "/images/products/boho-led-strip-kit-lighting-100.png",
-      "/images/products/boho-led-strip-kit-lighting-100.png",
-      "/images/products/boho-led-strip-kit-lighting-100.png"
+      "/images/products/boho-led-strip-kit-lighting-100.webp",
+      "/images/products/boho-led-strip-kit-lighting-100.webp",
+      "/images/products/boho-led-strip-kit-lighting-100.webp",
+      "/images/products/boho-led-strip-kit-lighting-100.webp"
     ],
     "description": "Bring understated elegance into your space with this led strip kit was designed with everyday use in mind, sturdy, comfortable, and easy to care for. Made from recycled glass, it combines natural textures with clean lines for a look that feels curated, not cluttered. Available in sage green, it's a versatile addition to any lighting.",
     "features": [
@@ -3714,10 +3714,10 @@ export const products = [
     "isNew": false,
     "isBestseller": false,
     "images": [
-      "/images/products/industrial-picture-light-lighting-101.png",
-      "/images/products/industrial-picture-light-lighting-101.png",
-      "/images/products/industrial-picture-light-lighting-101.png",
-      "/images/products/industrial-picture-light-lighting-101.png"
+      "/images/products/industrial-picture-light-lighting-101.webp",
+      "/images/products/industrial-picture-light-lighting-101.webp",
+      "/images/products/industrial-picture-light-lighting-101.webp",
+      "/images/products/industrial-picture-light-lighting-101.webp"
     ],
     "description": "A favorite among our customers, this picture light was built with sustainably sourced materials that age beautifully over time. Made from walnut veneer, it pairs easily with existing furniture, making it simple to refresh a room without starting over. Available in dusty rose, it's a versatile addition to any lighting.",
     "features": [

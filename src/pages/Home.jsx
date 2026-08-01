@@ -7,7 +7,7 @@ import Reveal from "../components/Reveal.jsx";
 import { FaArrowRight } from "../components/Icons.jsx";
 import { collections } from "../data/site.js";
 
-const HERO_IMAGE = "/images/misc/rabbicore-hero.png";
+const HERO_IMAGE = "/images/misc/rabbicore-hero.webp";
 import { useAdminData } from "../context/AppContext.jsx";
 
 function useSectionVisible(key) {
