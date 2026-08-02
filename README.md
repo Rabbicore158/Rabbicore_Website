@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/images/logo.png" alt="RabbiCore Logo" width="120" />
+<img src="public/images/logo.webp" alt="RabbiCore Logo" width="120" />
 
 # 🏡 RabbiCore
 
