@@ -120,7 +120,7 @@ export default function Home() {
             </div>
             <Link to="/collections" className="btn-ghost">View all collections <FaArrowRight size={12} /></Link>
           </div>
-          <div className="product-grid" style={{ gridTemplateColumns: "repeat(3, 1fr)" }}>
+          <div className="product-grid-3">
             {collections.slice(0, 3).map((c, i) => (
               <Reveal delay={i * 80} key={c.key}>
                 <Link to={`/collections?c=${c.key}`} className="card" style={{ display: "block" }}>

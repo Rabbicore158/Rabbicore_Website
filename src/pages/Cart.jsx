@@ -23,7 +23,7 @@ export default function Cart() {
             <Link to="/shop" className="btn btn-primary">Start Shopping</Link>
           </div>
         ) : (
-          <div className="shop-layout" style={{ marginTop: 28, gridTemplateColumns: "1fr 340px" }}>
+          <div className="cart-layout" style={{ marginTop: 28 }}>
             <div>
               {items.map((i) => (
                 <div key={i.id} className="card" style={{ display: "flex", gap: 16, padding: 14, marginBottom: 14, alignItems: "center" }}>

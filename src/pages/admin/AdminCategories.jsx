@@ -13,7 +13,7 @@ export default function AdminCategories() {
         Categories map directly to site navigation and product filters. To keep the storefront structure
         consistent, categories are fixed. Add products to an existing category from the Products tab.
       </p>
-      <div className="stat-cards" style={{ gridTemplateColumns: "repeat(4, 1fr)" }}>
+      <div className="stat-cards">
         {categories.map((c) => {
           const count = products.filter((p) => p.category === c.key).length;
           return (

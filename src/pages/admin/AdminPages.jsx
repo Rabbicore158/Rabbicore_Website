@@ -19,18 +19,20 @@ export default function AdminPages() {
         Static pages built into the site. Content for legal pages is edited directly in code
         (<code>src/pages/*.jsx</code>) since it rarely changes.
       </p>
-      <table className="admin-table">
-        <thead><tr><th>Page</th><th>Path</th><th>Actions</th></tr></thead>
-        <tbody>
-          {PAGES.map((p) => (
-            <tr key={p.path}>
-              <td>{p.name}</td>
-              <td><code>{p.path}</code></td>
-              <td><Link to={p.path} className="btn btn-outline btn-sm"><FaEye /> View</Link></td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="table-wrap">
+        <table className="admin-table">
+          <thead><tr><th>Page</th><th>Path</th><th>Actions</th></tr></thead>
+          <tbody>
+            {PAGES.map((p) => (
+              <tr key={p.path}>
+                <td>{p.name}</td>
+                <td><code>{p.path}</code></td>
+                <td><Link to={p.path} className="btn btn-outline btn-sm"><FaEye /> View</Link></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </AdminLayout>
   );
 }

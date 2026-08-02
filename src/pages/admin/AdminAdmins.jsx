@@ -48,8 +48,9 @@ export default function AdminAdmins() {
       </p>
       <button className="btn btn-primary" style={{ marginBottom: 18 }} onClick={() => setModal(true)}><FaPlusCircle /> Add Admin</button>
 
-      <table className="admin-table">
-        <thead><tr><th>Avatar</th><th>Label</th><th>Username</th><th>Role</th><th>Actions</th></tr></thead>
+      <div className="table-wrap">
+        <table className="admin-table">
+          <thead><tr><th>Avatar</th><th>Label</th><th>Username</th><th>Role</th><th>Actions</th></tr></thead>
         <tbody>
           {visibleFixedAdmins.map((a) => (
             <tr key={a.username}>
@@ -67,8 +68,9 @@ export default function AdminAdmins() {
           ))}
         </tbody>
       </table>
+    </div>
 
-      {modal && (
+    {modal && (
         <div className="mobile-drawer" style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
           <div className="backdrop" onClick={() => setModal(false)} />
           <form className="form-card" onSubmit={addAdmin} style={{ position: "relative", width: "min(440px, 92vw)" }}>

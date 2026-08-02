@@ -41,7 +41,7 @@ export default function About() {
           </Reveal>
         </div>
 
-        <div className="product-grid" style={{ gridTemplateColumns: "repeat(4,1fr)", marginTop: 70 }}>
+        <div className="stats-grid" style={{ marginTop: 70 }}>
           {stats.map((s, i) => (
             <Reveal delay={i * 60} key={s.label}>
               <div className="card text-center" style={{ padding: "28px 14px" }}>

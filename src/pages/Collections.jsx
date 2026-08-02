@@ -63,7 +63,7 @@ export default function Collections() {
         <Breadcrumbs items={[{ label: "Home", to: "/" }, { label: "Collections" }]} />
         <h1 className="section-title">Shop Our Collections</h1>
         <p className="section-sub">Thoughtfully grouped picks to help you shop a look, not just a category.</p>
-        <div className="product-grid" style={{ marginTop: 28, gridTemplateColumns: "repeat(3, 1fr)" }}>
+        <div className="product-grid-3" style={{ marginTop: 28 }}>
           {collections.map((c, i) => (
             <Reveal delay={i * 60} key={c.key}>
               <Link to={`/collections?c=${c.key}`} className="card" style={{ display: "block" }}>

@@ -41,7 +41,7 @@ export default function AdminMedia() {
       {mediaLibrary.length === 0 ? (
         <div className="empty-state"><div className="icon">🖼️</div><h3>No images added yet</h3><p>Paste an image URL above to start your library.</p></div>
       ) : (
-        <div className="product-grid" style={{ gridTemplateColumns: "repeat(5, 1fr)" }}>
+        <div className="admin-grid">
           {mediaLibrary.map((m) => (
             <div className="card" key={m.id} style={{ overflow: "hidden" }}>
               <div style={{ aspectRatio: "1/1" }}><img src={m.url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} /></div>

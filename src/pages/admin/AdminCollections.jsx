@@ -26,7 +26,7 @@ export default function AdminCollections() {
       <p style={{ color: "var(--ink-soft)", marginBottom: 20, maxWidth: 600 }}>
         Edit the name, description, and banner image shown for each featured collection across the site.
       </p>
-      <div className="product-grid" style={{ gridTemplateColumns: "repeat(3, 1fr)" }}>
+      <div className="product-grid-3">
         {merged.map((c) => (
           <div className="card" key={c.key}>
             <div style={{ aspectRatio: "4/3", overflow: "hidden" }}>
