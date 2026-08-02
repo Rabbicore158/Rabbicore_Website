@@ -1,128 +1,118 @@
-# RabbiCore, Home Decor and Affiliate Storefront
+<div align="center">
 
-A full, responsive, animated home decor storefront with a client-side admin dashboard.
-This is a standard Vite + React project.
+<img src="public/images/logo.png" alt="RabbiCore Logo" width="120" />
 
-## Running it
+# 🏡 RabbiCore
 
-You need Node.js installed (v18 or newer). Then, from this folder:
+### *Beautiful Homes, Better Living*
 
-```
-npm install
-npm run dev
-```
+**A modern, editorial-style home decor storefront built with React and Vite.**
+Curated products, real decorating guides, and a full self-serve admin dashboard,
+wrapped in a warm, terracotta-and-cream design language.
 
-Open the URL it prints (usually `http://localhost:3000`). That's it.
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rabbicore.netlify.app-C1502E?style=for-the-badge)](https://rabbicore.netlify.app/)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+![License](https://img.shields.io/badge/license-private-lightgrey?style=flat-square)
 
-To build a production version (for hosting):
-```
-npm run build
-```
-This creates a `dist` folder you can deploy anywhere. To preview that build locally:
-```
-npm run preview
-```
+</div>
 
-## Deploying to Vercel
+---
 
-1. Push this project to GitHub (as you've already done).
-2. In Vercel, import the repo.
-3. Framework preset: Vite (Vercel should auto-detect this).
-4. Leave Build Command and Output Directory on their defaults (npm run build and dist).
-   Vercel's Vite preset already knows these.
-5. Deploy. You'll get a live URL.
+## ✨ About the Project
 
-## Admin dashboard
+**RabbiCore** is a full featured home decor and lifestyle storefront concept, built to feel
+like a real, living e-commerce brand rather than a template demo. It blends two things that
+usually live on separate sites: a genuinely shoppable product catalog, and real, useful
+decorating editorial content, buying guides, room ideas, and styling tips, all under one roof.
 
-Visit /admin/login. Demo admin accounts:
+Every corner of the experience was designed around a simple idea: home decor shopping should
+feel warm, curated, and a little inspiring, not like scrolling a spreadsheet. From the hero
+banner down to the footer, RabbiCore leans into soft cream backgrounds, warm terracotta
+accents, and elegant serif typography to create a boutique, editorial feel.
 
-| Username | Password |
+Behind the scenes, RabbiCore also ships with its own private admin dashboard, letting a store
+owner manage the entire catalog, content, and homepage layout without ever touching code.
+
+<div align="center">
+
+### 🔗 [**Visit the Live Site →**](https://rabbicore.netlify.app/)
+
+</div>
+
+---
+
+## 🌟 Features
+
+### 🛍️ Storefront Experience
+- Elegant, animated homepage with a rotating hero, curated collections, and trending picks
+- Full shop experience with category browsing, live filtering, sorting, and pagination
+- Rich product detail pages: image gallery, specs, reviews, ratings, and related products
+- Wishlist and cart, persisted right in the browser so nothing is lost on refresh
+- Global search with instant results across products and articles
+- Curated **Collections** (Best Sellers, On Sale, Scandinavian Edit, Boho Living, and more)
+
+### 📝 Editorial & Content
+- A full **Ideas** hub with real, in-depth decorating articles and room-by-room guides
+- Dedicated **Buying Guides** section to help shoppers choose with confidence
+- Category-based article browsing, related articles, and a shoppable "Shop the Look" section
+
+### 🎨 Design & Experience
+- Warm, cohesive design system: custom color palette, serif display type, and soft shadows
+- Scroll-triggered reveal animations, hover states, and smooth page transitions throughout
+- Fully responsive, from large desktop layouts down to compact mobile screens
+- Toast notifications, empty states, and loading skeletons for a polished, native-app feel
+
+### 🔐 Admin Dashboard
+- Secure, role-based login with distinct Admin and Super Admin access levels
+- Full CRUD control: add, edit, and delete any product or article
+- Built-in rich text editor for writing and formatting articles
+- Homepage Builder to toggle which sections appear on the homepage, live
+- Manage categories, collections, media, and site-wide settings from one place
+- Super Admin tools to add or remove other admin accounts
+
+### 📬 Real Integrations
+- Newsletter signup, contact form, and product suggestion form, all fully functional
+- Affiliate-ready product links for a genuine e-commerce monetization flow
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| Layer | Technology |
 |---|---|
-| Rabbicore01 | Rabbicore@01 |
-| Rabbicore02 | Rabbicore@02 |
-| Rabbicore03 | Rabbicore@03 |
-| Rabbicore04 | Rabbicore@04 |
-| Rabbicore05 | Rabbicore@05 |
+| **Framework** | React 18 |
+| **Build Tool** | Vite 5 |
+| **Routing** | Custom lightweight client-side router |
+| **Styling** | Hand-crafted CSS design system (custom properties, no framework overhead) |
+| **Icons** | React Icons |
+| **State Management** | React Context API |
+| **Persistence** | Browser Local Storage |
+| **Forms** | Formspree |
+| **Deployment** | Netlify |
 
-A Super Admin account also exists with elevated permissions (can add or remove other admins).
-Its username is intentionally not printed anywhere in this file or the app itself, by design.
-Only you have it.
+</div>
 
-From the dashboard, any admin can:
-- Add, edit, or delete any product
-- Add, edit, or delete any article (with a rich text editor)
-- Manage collections, homepage section visibility, and site settings
-- (Super Admin only) add or remove other admin accounts
+---
 
-Good to know: this is a front-end-only build with no server or database. Admin changes save
-to your browser's local storage, so they:
-- stay saved between visits, in that same browser
-- do not sync across different browsers or devices
-- will disappear if that browser's site data or local storage is cleared
+## 🌐 Live Demo
 
-This also means the login is a demo-level pattern, not real production security. For a real
-admin panel handling actual customer data, that logic should move to a real backend with hashed
-passwords and proper sessions.
+<div align="center">
 
-## Images
+### **[https://rabbicore.netlify.app/](https://rabbicore.netlify.app/)**
 
-Every product photo, article header, and collection banner is a real, pre-generated PNG file
-living in public/images/ (a clean branded color card with the product or article name on it)
-rather than a stock photo. This is intentional. They are ordinary static image files, so they
-load instantly with no external dependency and nothing will ever show up as broken or slow.
+Explore the storefront, browse the shop, read a few decorating guides,
+and see the whole experience in action.
 
-- public/images/products/     one image per product
-- public/images/articles/     one hero image per article
-- public/images/misc/         collections, homepage hero, about page, and admin default images
+</div>
 
-When you have real product photography, replace the images field for a product (or heroImage
-for an article) with your real photo, either directly in src/data/products.js and
-src/data/articles.js, or through the Admin, Products, Articles, and Media screens. You can put
-your own photos anywhere under public/ and reference them the same way (for example,
-public/images/products/my-sofa.jpg becomes /images/products/my-sofa.jpg).
+---
 
-## Forms
+<div align="center">
 
-The newsletter, contact, and product suggestion forms are wired to Formspree. They will start
-working the moment the site is live on the internet (Formspree needs a real, publicly
-reachable page to receive submissions from).
+*RabbiCore, curated home decor pieces and inspiring ideas for every space.*
 
-## Checkout
-
-RabbiCore is an affiliate storefront, not a payment processor. "Buy on Amazon" buttons link out
-to Amazon search results for each product name. Before publishing, update affiliateUrl in
-src/data/products.js with your real Amazon Associates links, including your tracking tag.
-
-## Editing content directly in code
-
-- Products: src/data/products.js (regenerate with npm run gen:products)
-- Articles: src/data/articles.js (regenerate with npm run gen:articles)
-
-Regenerating products or articles creates new placeholder images too, which needs one extra
-package not installed by default (it is only needed for this, not for running the site):
-```
-npm install sharp --save-dev
-```
-- Site text, testimonials, FAQs, contact info defaults: src/data/site.js and
-  src/context/AppContext.jsx (the settings default)
-- Colors, fonts, spacing: CSS variables at the top of src/styles/main.css
-
-## Project structure
-
-```
-index.html               Vite entry HTML
-vite.config.js            Vite config
-src/
-  main.jsx                React entry point
-  App.jsx                  Routes
-  utils/router.jsx         Lightweight built-in router (no external routing library needed)
-  utils/placeholder.js     Generates the branded placeholder images
-  context/AppContext.jsx   Cart, wishlist, auth, and admin-editable site data
-  data/                    Product, article, and site content
-  components/              Shared UI (Navbar, Footer, cards, forms, etc.)
-  pages/                   One file per page
-  pages/admin/             Admin dashboard pages
-  styles/main.css          All styling and animations
-public/                   Logo, favicon
-scripts/                  Content generator scripts
-```
+</div>
